@@ -11,7 +11,7 @@ Table of Contents
   * [Report](#Report)
   * [Task](#Task)
   * [Dataset](#Dataset)
-  * [Knowledge Evolution](#Knowledge_Evolution)
+  * [Soil Moisture](#Soil_Moisture)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
 
@@ -45,27 +45,18 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 
-## Temporal_Rule_Learning_and_Resoning
-1. Qing Lyu, Li Zhang, and Chris Callison-Burch. [Reasoning about Goals, Steps, and Temporal Ordering with WikiHow](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf). Arxiv 2020. [[Paper]](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)
-
-
-
 
 ## Dataset
 1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
 
 
 
-## Temporal_Semantic_Unit_Extraction
-1. Haoyu Wang, Muhao Chen, Hongming Zhang, and Dan Roth. [Joint Constrained Learning for Event-Event Relation Extraction](https://arxiv.org/pdf/2010.06727.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2010.06727.pdf)
-
-
-1. Xueying Wang and Meng Jiang. [Precise temporal slot filling via truth finding with data-driven commonsense](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf). Knowledge and Information Systems 2020. [[Paper]](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf)
+## Soil_Moisture
+1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. [Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture]. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
 
 
 
-
-## Temporal_Relation_Checking
+<!-- ## Temporal_Relation_Checking
 1. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
 
 
@@ -122,51 +113,10 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 2. Jiaqi Liu, Qin Zhang, Luoyi Fu, Xinbing Wang, and Songwu Lu. [Evolving Knowledge Graphs](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf). Infocom 2019. [[Paper]](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
 
 
-3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf)
+3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf) -->
 
 
 4. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
-
-
-5. Nathanael Chambers, Taylor Cassidy, Bill McDowell, and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182). TACL 2014. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182)
-
-
-
-9. Timothée Lacroix, Guillaume Obozinski, and Nicolas Usunier. [Tensor Decompositions for temporal knowledge base completion](https://arxiv.org/pdf/2004.04926.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2004.04926.pdf)
-
-
-10. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, and Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). AAAI 2020. [[Paper]](https://arxiv.org/abs/1907.03143)
-
-
-11. Tianxing Wu, Arijit Khan, Huan Gao, and Cheng Li. [Efficiently Embedding Dynamic Knowledge Graphs](https://arxiv.org/pdf/1910.06708.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1910.06708)
-
-
-12. Aravind Sankar, Yanhong Wu, Liang Gou, Wei Zhang, and Hao Yang. [Dynamic Graph Representation Learning via Self-Attention Networks](https://arxiv.org/pdf/1812.09430.pdf). Workshop in ICLR 2019. [[Paper]](https://arxiv.org/pdf/1812.09430.pdf)[[Code]](https://github.com/aravindsankar28/DySAT)
-
-
-13. Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, and Hongyuan Zha. [DYREP: Learning Representations over Dynamic Graphs](https://openreview.net/pdf?id=HyePrhR5KX). ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
-
-
-20. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, and Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
-
-
-21. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
-
-
-22. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
-
-
-23. Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhang. [Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks](https://arxiv.org/pdf/2012.08492.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/pdf/2012.08492.pdf) [[Report]](https://mp.weixin.qq.com/s/RyVXvOGdPYPigGQN0UgBUA)
-
-
-24. Jiapeng Wu, Yishi Wu, Yingxue Zhang, et, al. [TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2104.08419.pdf). Sigir 2021. [[Paper]](https://arxiv.org/pdf/2104.08419.pdf) [[Report]](https://www.zhuanzhi.ai/vip/7f3fa2462edfd47444bf742208545930)
-
-
-
-25. 申宇铭, 杜剑峰. [时态知识图谱补全的方法及其进展](http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024). 大数据 2021. [[Paper]](http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024) [[Report]](https://mp.weixin.qq.com/s/V12VazZLdGEpowJ6X_jaxw)
-
-
-26. Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, and Volker Tresp. [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/pdf/2112.08025.pdf). AAAI 2022. [[Paper]](https://arxiv.org/pdf/2112.08025.pdf) [[Report]](https://mp.weixin.qq.com/s/FPfD-uvkFk-uxg-Rn7owaA)
 
 
 
@@ -175,17 +125,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ)
 
-
-[知识图谱 # 最近三年知识图谱在动态以及时间预测与补全上必读的6篇论文](https://mp.weixin.qq.com/s/UIgPcv1z7SuCCN6UruNl-A)
-
-
-[论文导读 | 社交网络上的信息传播预测](https://mp.weixin.qq.com/s/ryDcTqS1W4j8GJOEkc1Lrw)
-
-
-[时态图网络：即使很久不发朋友圈，也能知道你的新兴趣](https://mp.weixin.qq.com/s/0wzzbNsqhT4LEvb-XsF9ng)
-
-
-[【KDD2020】基于动态知识图谱的多事件预测](https://mp.weixin.qq.com/s/hk6V_VUnyPpQZ6lJB-SedQ)
 
 
 
