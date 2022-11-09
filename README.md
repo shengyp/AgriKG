@@ -135,44 +135,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 
-## Deep_Spatial-Temporal_Graph_Modeling
-1. Wenjie Hu, Yang Yang, Ziqiang Cheng, Carl Yang, and Xiang Ren. [Time-Series Event Prediction with Evolutionary State Graph](https://export.arxiv.org/pdf/1905.05006). WSDM 2020. [[Paper]](https://export.arxiv.org/pdf/1905.05006). [[Report]](https://mp.weixin.qq.com/s/kDrp03oU4Iy2Ck8CXOAQJA)  
-
-
-2. Songgaojun Deng, Huzefa Rangwala, and Yue Ning. [Dynamic Knowledge Graph based Multi-Event Forecasting
-](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). KDD 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). [[Report]](https://mp.weixin.qq.com/s/Txb4HdrQal2aXkSM17Rjxw)  
-
-
-
-
-## Embedding_Learning_of_Temporal_Knowledge_Graph
-1. Yugang Ji, MingYang Yin, Yuan Fang, et. al. [Temporal Heterogeneous Interaction Graph Embedding For Next-Item Recommendation](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6160&context=sis_research) ECML-PKDD 2020. [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6160&context=sis_research)
-
-
-
-2. Manling Li, Qi Zeng, Ying Lin, et. al. [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
-](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf) EMNLP 2020. [[Paper]](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf)
-
-
-3. Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. [Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf) EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf)
-
-
-4. Zhen Han, Peng Chen, Yunpu Ma, and Volker Tresp. [DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2011.03984) EMNLP 2020. [[Paper]](https://arxiv.org/abs/2011.03984)
-
-
-5. Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, and William L. Hamilton. [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2010.03526) EMNLP 2020. [[Paper]](https://arxiv.org/abs/2010.03526)
-
-
-6. Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, and Hamed Shariat Yazdi. [TeRo: A Time-aware Knowledge Graph Embedding via Temporal
-Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://arxiv.org/pdf/2010.01029.pdf)
-
-
-7. Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, and Jens Lehmann. [Temporal Knowledge Graph Completion based on Time Series Gaussian Embedding](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_37). ISWC 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_37)
-
-
-8. Zhen Han, Yunpu Ma, Yuyi Wang, Stephan G¨unnemann, and Volker Tresp. [Graph Hawkes Neural Network for Forecasting on Temporal Knowledge Graphs](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf). AKBC 2020. [[Paper]](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf)
-
-
 9. Timothée Lacroix, Guillaume Obozinski, and Nicolas Usunier. [Tensor Decompositions for temporal knowledge base completion](https://arxiv.org/pdf/2004.04926.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2004.04926.pdf)
 
 
@@ -186,24 +148,6 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 
 
 13. Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, and Hongyuan Zha. [DYREP: Learning Representations over Dynamic Graphs](https://openreview.net/pdf?id=HyePrhR5KX). ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
-
-
-14. Boris Knyazev, Carolyn Augusta, and Graham W. Taylor. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions](https://arxiv.org/pdf/1909.10367v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
-
-
-15. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, and Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
-
-
-16. Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://talukdar.net/papers/emnlp2018_HyTE.pdf). EMNLP 2018. [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
-
-
-17. Julien Leblay and Melisachew Wudage Chekol. [Deriving Validity Time in Knowledge Graph](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f). WWW 2018. [[Paper]](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f)
-
-
-18. Federico Bianchi, Matteo Palmonari, and Debora Nozza. [Towards Encoding Time in Text-Based Entity Embeddings](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_4.pdf). ISWC 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_4.pdf)
-
-
-19. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, and  Zhifang Sui. [Encoding Temporal Information for Time-Aware Link Prediction](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf). EMNLP 2016. [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
 
 20. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, and Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
@@ -236,15 +180,6 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 
 
 [知识图谱 # 最近三年知识图谱在动态以及时间预测与补全上必读的6篇论文](https://mp.weixin.qq.com/s/UIgPcv1z7SuCCN6UruNl-A)
-
-
-[论文导读 | TemporalGCN](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
-
-
-[论文浅尝 | 让“演进知识图谱”带你“瞻前顾后”看世界](https://mp.weixin.qq.com/s/VcvxFGjgt-ldrC3TPiPg7w)
-
-
-[【资源推荐】 时序处理文献/代码/数据集及相关资源大列表](https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
 
 
 [论文导读 | 社交网络上的信息传播预测](https://mp.weixin.qq.com/s/ryDcTqS1W4j8GJOEkc1Lrw)
