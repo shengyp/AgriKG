@@ -1,4 +1,4 @@
-# Temporal-Aware Knowledge Resource: Paper
+# Agriculture-Aware Knowledge Resource: Paper
 
 
 Here, we are concentrate on collection of research papers involving temporal-aware topics, including temporal rule learning and resoning, temporal relation extraction, temporal text mining, deep spatial-temporal graph modeling, embedding learning of temporal knowledge graph, temporal knowledge graph curation and visulization, temporal commonsense understanding.   
@@ -7,24 +7,23 @@ Here, we are concentrate on collection of research papers involving temporal-awa
 Table of Contents
 =================
 
-  * [InfoBox](#InfoBox)
   * [Survey](#Survey)
   * [Report](#Report)
   * [Task](#Task)
   * [Dataset](#Dataset)
   * [Knowledge Evolution](#Knowledge_Evolution)
-  * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
+<!--   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
   * [Temporal Relation Checking](#Temporal_Relation_Checking)
-  * [Temporal Text Mining](#Temporal_Text_Mining)
-  * [Event-Centric Temporal Data Mining](#Event_Centric_Temporal_Data_Mining)
+  * [Temporal Text Mining](#Temporal_Text_Mining) -->
+<!--   * [Event-Centric Temporal Data Mining](#Event_Centric_Temporal_Data_Mining)
   * [Event-Centric Temporal Knowledge Graph](#Event_Centric_Temporal_Knowledge_Graph)
   * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
   * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
   * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
-  * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs) 
+  * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs)  -->
   * [Thesis](#Thesis)
   * [Tools](#Tools)
 
@@ -42,23 +41,6 @@ Table of Contents
 
 2. Tara Safavi and Danai Koutra. [CODEX: A Comprehensive Knowledge Graph Completion Benchmark](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf) 
 
-
-3. Siddhant Arora. [A Survey on Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/pdf/2007.12374.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.12374.pdf) [[《图神经网络知识图谱补全》 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/xKtSQDSDJgN616yD6M3VBw)
-
-
-4. Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, and Zhouhua Tang. [A Survey on Dynamic Network Embedding](https://arxiv.org/pdf/2006.08093.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08093.pdf)
-
-
-5. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, and Philip S. Yu. [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2002.00388.pdf)
-
-
-6. Dat Quoc Nguyen. [An overview of embedding models of entities and relationships for knowledge base completion](https://arxiv.org/pdf/1703.08098.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1703.08098.pdf)
-
-
-7. JOAKIM SKARDING, BOGDAN GABRYS, and KATARZYNA MUSIAL. [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/2005.07496.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2005.07496.pdf)
-
-
-8. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, and Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
 
@@ -85,46 +67,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020.
 1. Qing Lyu, Li Zhang, and Chris Callison-Burch. [Reasoning about Goals, Steps, and Temporal Ordering with WikiHow](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf). Arxiv 2020. [[Paper]](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)
 
 
-2. Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal and Dan Roth. [Temporal Reasoning on Implicit Events from Distant Supervision](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2010.12753.pdf)
-
-
-3. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
-
-
-4. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
-
-
-5. Tanya Goyal and Greg Durrett. [Embedding time expressions for deep temporal ordering models](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.08287.pdf)
-
-
-6. Pouya Ghiasnezhad Omran, Kewen Wang, and Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
-
-
-7. Qiang Ning, Zhili Feng, Hao Wu, and Dan Roth. [Joint Reasoning for Temporal and Causal Relations](https://www.aclweb.org/anthology/P18-1212.pdf). ACL 2019. [[Paper]](https://www.aclweb.org/anthology/P18-1212.pdf)
-
-
-8. Boyi Hou and Youcef Nafa. [Enabling Temporal Reasoning for Fact
-Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf). DASFAA 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf)
-
-
-9. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, and Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
-
-
-10. Rakshit Trivedi, Hanjun Dai, Yichen Wang, and Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
-
-
-11. Yafang Wang, Mohamed Yahya, and Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
-
-
-12. Suresh Kumar Sanampudi and G.Vijaya Kumari. [Temporal Reasoning in Natural Language Processing: A Survey](https://www.ijcaonline.org/allpdf/pxc387209.pdf#:~:text=REPRESENTATION%20AND%20REASONING%20OF%20TIME%20IN%20NLP%20.,with%20time%20in%20solving%20many%20NLP%20%20applications.). International Journal of Computer Applications 2010. [[Paper]](https://www.ijcaonline.org/allpdf/pxc387209.pdf#:~:text=REPRESENTATION%20AND%20REASONING%20OF%20TIME%20IN%20NLP%20.,with%20time%20in%20solving%20many%20NLP%20%20applications.)
-
-
-13. Alexander Nakhimovsky. [Temporal reasoning in natural language understanding: the temporal structure of the narrative](https://www.aclweb.org/anthology/E87-1042.pdf). EACL 1987. [[Paper]](https://www.aclweb.org/anthology/E87-1042.pdf)
-
-
-
-14. Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, and Xueqi Cheng. [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://arxiv.org/abs/2106.00327). ACL 2021. [[Paper]](https://arxiv.org/abs/2106.00327)
-
 
 
 ## Dataset
@@ -138,34 +80,6 @@ Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%
 
 1. Xueying Wang and Meng Jiang. [Precise temporal slot filling via truth finding with data-driven commonsense](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf). Knowledge and Information Systems 2020. [[Paper]](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf)
 
-
-2. Yang Zhou, Tong Zhao, and Meng Jiang. [A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction](http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf). ACL 2020. [[Paper]](http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf)
-
-
-3. Siddharth Vashishtha, Benjamin Van Durme, and Aaron Steven White
-. [Fine-Grained Temporal Relation Extraction](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf). ACL 2019. [[Paper]](https://arxiv.org/pdf/1902.01390.pdf)
-
-
-4. Xueying Wang, Haiqiao Zhang, Qi Li, Yiyu Shi, and Meng Jiang. [A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf). WWW 2019. [[Paper]](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf)
-
-
-5. Qiang Ning, Sanjay Subramanian, and Dan Roth. [An Improved Neural Baseline for Temporal Relation Extraction
-](https://www.aclweb.org/anthology/D19-1642.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1642.pdf)
-
-
-6. Rujun Han, Qiang Ning, and Nanyun Peng. [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://www.aclweb.org/anthology/D19-1041.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1041.pdf)
-
-
-7. Qiang Ning, Hao Wu, and Dan Roth. [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://www.aclweb.org/anthology/P18-1122.pdf). ACL 2018. [[Paper]](https://www.aclweb.org/anthology/P18-1122.pdf)
-
-
-8. Nasrin Mostafazadeh, Alyson Grealish, Nathanael Chambers, James Allen, and Lucy Vanderwende. [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/semantic-annotation-of-events.pdf). Arxiv 2016. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/semantic-annotation-of-events.pdf)
-
-
-8. Jannik Strotgen and Michael Gertz. [A Baseline Temporal Tagger for all Languages](https://www.cs.cmu.edu/~ark/EMNLP-2015/proceedings/EMNLP/pdf/EMNLP063.pdf). ACL 2015. [[Paper]](https://www.cs.cmu.edu/~ark/EMNLP-2015/proceedings/EMNLP/pdf/EMNLP063.pdf)
-
-
-9. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Acquiring temporal constraints between relations](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf). CIKM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf)
 
 
 
