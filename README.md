@@ -30,17 +30,14 @@ Table of Contents
 
 
 ## Survey
-1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. [Modeling Relation Paths for Knowledge Graph Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254). TKDE 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254) 
-
-
-2. Tara Safavi and Danai Koutra. [CODEX: A Comprehensive Knowledge Graph Completion Benchmark](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf) 
-
+1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. Everything You wanted to Know about Smart Agriculture. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
 
 
 
 ## Report
-1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
-Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. 
+<!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
+Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. --> 
+
 
 
 ## Task
