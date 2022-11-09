@@ -256,22 +256,9 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 [【KDD2020】基于动态知识图谱的多事件预测](https://mp.weixin.qq.com/s/hk6V_VUnyPpQZ6lJB-SedQ)
 
 
-[论文导读 | 动态图上神经网络模型综述](https://mp.weixin.qq.com/s/g6OobMcyb35ybLMGmeq_aA)
 
 
-[图神经网络如何时序化？看Twitter最新《动态图深度学习:时序图网络TGN》研究（含论文与PPT）](https://mp.weixin.qq.com/s/O7oybCzWKvlNhsCB2k6KBA)[[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/TGN_2021_01_22.pdf)
-
-
-
-[历史预测未来？国防科大新模型实现未来事实预测SOTA）](https://mp.weixin.qq.com/s/vR8sUPPWQiPZnprrAw2uZw)[[Paper]](https://arxiv.org/abs/2012.08492) [[Code]](https://github.com/CunchaoZ/CyGNet)
-
-
-
-[Temporal Knowledge Graph（时序知识图谱论文梳理一）](https://zhuanlan.zhihu.com/p/340981892?utm_source=wechat_session&utm_medium=social&s_r=0) | [AAAI2021 时序知识图谱论文译读（时序知识图谱论文梳理二）](https://zhuanlan.zhihu.com/p/348170848?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn) 
-
-
-
-## Temporal_Commonsense_Understanding
+<!-- ## Temporal_Commonsense_Understanding
 1. Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. [Temporal Common Sense Acquisition with Minimal Supervision](https://www.aclweb.org/anthology/2020.acl-main.678.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.678.pdf)
 
 
@@ -281,7 +268,7 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 
 ## IR_for_Spatio_Temporal_Graphs 
 1. Zheyi Pan, Songyu Ke, Xiaodu Yang, et al. [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graphs](http://panzheyi.cc/publication/pan2021autostg/paper.pdf). WWW 2021. [[Paper]](http://panzheyi.cc/publication/pan2021autostg/paper.pdf)
-
+ -->
 
 
 ## Thesis
