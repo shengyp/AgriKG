@@ -294,7 +294,4 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 
 
 
-updated in 2021.04.24
-
-
-https://shengyp.github.io/certificate/NGCI0001004(En).pdf
+updated in 2022.11.09
