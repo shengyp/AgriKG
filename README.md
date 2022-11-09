@@ -12,6 +12,9 @@ Table of Contents
   * [Task](#Task)
   * [Dataset](#Dataset)
   * [Knowledge Evolution](#Knowledge_Evolution)
+  * [Thesis](#Thesis)
+  * [Tools](#Tools)
+
 <!--   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
   * [Temporal Relation Checking](#Temporal_Relation_Checking)
@@ -24,15 +27,6 @@ Table of Contents
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
   * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
   * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs)  -->
-  * [Thesis](#Thesis)
-  * [Tools](#Tools)
-
-
-
-## InfoBox
-
-[联手信息系统专业委员会：“时态知识图谱”术语发布 | CCF术语快线](https://mp.weixin.qq.com/s/TyxTtUFfqXPgwBzJedn4rQ)
-
 
 
 ## Survey
@@ -51,15 +45,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020.
 
 ## Task
 1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013.
-
-
-
-## Knowledge_Evolution
-1. Ahmed Taha, Abhinav Shrivastava, and Larry Davis. [Knowledge Evolution in Neural Networks](https://arxiv.org/pdf/2103.05152.pdf). CVPR 2021. [[Paper]](https://arxiv.org/pdf/2103.05152.pdf)
-
-
-2. Negar Etemadyrad, Qingzhe Li, and Liang Zhao. [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://ojs.aaai.org/index.php/AAAI/article/view/16903). AAAI 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16903) [[Report]](https://mp.weixin.qq.com/s/QdgQgPuAAoiJzU1Ik4Kqbw)
-
 
 
 
@@ -157,48 +142,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 2. Songgaojun Deng, Huzefa Rangwala, and Yue Ning. [Dynamic Knowledge Graph based Multi-Event Forecasting
 ](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). KDD 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). [[Report]](https://mp.weixin.qq.com/s/Txb4HdrQal2aXkSM17Rjxw)  
 
-
-3. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf) [[Video]](https://mp.weixin.qq.com/s/xgiQsTLtWkC3eW49AnYsjA)
-
-
-4. Yang Li, Buyue Qian, Xianli Zhang, and Hui Liu. [Knowledge guided diagnosis prediction via graph spatial-temporal network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3). ICDM 2020. [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3)
-
-
-5. Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, and Kannan Achan. [Inductive representation learning on temporal graphs](https://arxiv.org/pdf/2002.07962.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2002.07962.pdf)
-
-
-6. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, and Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
-
-
-7. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)[[论文导读 | TemporalGCN]](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
-
-
-8. Zhining Liu, Dawei Zhou, and Jingrui He. [Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true). CIKM 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true)
-
-
-9. Zhendong Chu, Renqin Cai, and Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
-
-
-10. Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Wei Liu, and Zheng Yang. [Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf). CIKM 2019. [[Paper]](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf)
-
-
-11. Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S.Yu, and Yanfang Ye. [Temporal Network Embedding with Micro- and Macro-dynamics](https://arxiv.org/pdf/1909.04246v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.04246v1.pdf)
-
-
-12. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, and Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
-
-
-13. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, and Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
-
-
-14. Xiaohan Li, Mengqi Zhang, Shu Wu, Zheng Liu, Liang Wang, and Philip S. Yu. [Dynamic Graph Collaborative Filtering](https://deepai.org/publication/dynamic-graph-collaborative-filtering). Arxiv 2021. [[Paper]](https://deepai.org/publication/dynamic-graph-collaborative-filtering)
-
-
-15. Baoyu Jing, Hanghang Tong, and Yada Zhu. [Network of Tensor Time Series](https://arxiv.org/pdf/2102.07736.pdf). WWW 2021. [[Paper]](https://arxiv.org/pdf/2102.07736.pdf)
-
-
-
-16. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, et al. [Temporal Graph Networks for Deep Learning on Dynamic Graphss](https://arxiv.org/abs/2006.10637). Arxiv 2020. [[Paper]](https://arxiv.org/abs/2006.10637)
 
 
 
@@ -325,35 +268,6 @@ Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://
 
 
 [Temporal Knowledge Graph（时序知识图谱论文梳理一）](https://zhuanlan.zhihu.com/p/340981892?utm_source=wechat_session&utm_medium=social&s_r=0) | [AAAI2021 时序知识图谱论文译读（时序知识图谱论文梳理二）](https://zhuanlan.zhihu.com/p/348170848?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn) 
-
-
-[知识图谱最新权威综述论文解读：时序知识图谱部分](https://mp.weixin.qq.com/s/bL71NAJu5XAiW50QTiglXg)
-
-
-[【知识图谱系列】动态知识图谱表示学习综述 | 十篇优秀论文导读](https://mp.weixin.qq.com/s/wGzvXnotEItcazjuawl26w) [[PPT]](./ppt/动态知识图谱综述.ppt)
-
-
-[Dynamic Graph Representation Learning](http://web.cs.ucla.edu/~patricia.xiao/files/Paper_Reading_Group_20201006.pdf) 
-
-
-[AAAI 2021 | 用于图拓扑演化的深度图谱进化网络](https://mp.weixin.qq.com/s/QdgQgPuAAoiJzU1Ik4Kqbw) 
-
-
-[【知识图谱系列】知识图谱权威综述论文解读：时序知识图谱](https://mp.weixin.qq.com/s/HlWLkFMQzSs35P_QgdCqaQ) 
-
-
-
-
-## Temporal_Knowledge_Graph_Curation_and_Visulization
-1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, and Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
-
-
-## Temporal_QA
-1. Camille Bourgaux and Anni-Yasmin Turhan. [Temporal Query Answering in DL-Lite over Inconsistent Data](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf)
-
-
-[京东基于时序知识图谱的问答系统](https://mp.weixin.qq.com/s/iNP01HfFk55D5h8J2Ag9DQ) 
-
 
 
 
