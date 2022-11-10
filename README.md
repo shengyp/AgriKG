@@ -11,6 +11,8 @@ Table of Contents
   * [Report](#Report)
   * [Task](#Task)
   * [Dataset](#Dataset)
+  * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
+  * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
   * [Soil Moisture](#Soil_Moisture)
   * [Thesis](#Thesis)
@@ -54,6 +56,11 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Agriculture-Aware_Knowledge_Extraction
 1. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
+
+
+
+## Agriculture-Aware_Knowledge_Reasoning
+1. 孙 敏, 罗卫红, 相 林, 冯万利, 吕慧明. **设施果菜病害诊断的知识表达与推理模型**. 农业工程学报 2012. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20121722?st=search)
 
 
 
@@ -134,7 +141,7 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
 
 
-[图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ)
+<!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
 
 
 
