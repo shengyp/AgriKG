@@ -71,6 +71,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 2. 吴赛赛, 周爱莲, 谢能付, 梁晓贺, 汪汇涓, 李小雨, 陈桂鹏. **基于深度学习的作物病虫害可视化知识图谱构建**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20202421?st=search)
 
 
+3. 张娟,王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
+
+
 
 ## Soil_Moisture
 1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
@@ -170,4 +173,4 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 
-updated in 2022.11.09
+updated in 2022.11.10
