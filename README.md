@@ -53,12 +53,12 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 ## Agriculture-Aware_Knowledge_Graph_Construction
-1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. 农产品标准领域知识图谱实体关系抽取及关联性分析. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
+1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
 
 
 
 ## Soil_Moisture
-1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. [Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture]. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
+1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
 
 
 
