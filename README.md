@@ -14,6 +14,7 @@ Table of Contents
   * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
   * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
+  * [Downstream Applications](#Downstream_Applications)
   * [Soil Moisture](#Soil_Moisture)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
@@ -34,6 +35,9 @@ Table of Contents
 
 ## Survey
 1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
+
+
+2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
 
 
 
@@ -72,6 +76,11 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 3. 张娟,王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
+
+
+
+## Downstream_Applications
+1. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
 
 
 
