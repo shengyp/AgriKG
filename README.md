@@ -52,8 +52,17 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 
+## Agriculture-Aware_Knowledge_Extraction
+1. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
+
+
+
 ## Agriculture-Aware_Knowledge_Graph_Construction
 1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
+
+
+2. 吴赛赛, 周爱莲, 谢能付, 梁晓贺, 汪汇涓, 李小雨, 陈桂鹏. **
+基于深度学习的作物病虫害可视化知识图谱构建**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20202421?st=search)
 
 
 
