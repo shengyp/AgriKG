@@ -11,6 +11,7 @@ Table of Contents
   * [Report](#Report)
   * [Task](#Task)
   * [Dataset](#Dataset)
+  * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
   * [Soil Moisture](#Soil_Moisture)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
@@ -48,6 +49,11 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Dataset
 1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
+
+
+
+## Agriculture-Aware_Knowledge_Graph_Construction
+1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. 农产品标准领域知识图谱实体关系抽取及关联性分析. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
 
 
 
@@ -114,9 +120,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf) -->
-
-
-4. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
 
 
 
