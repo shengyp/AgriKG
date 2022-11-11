@@ -63,6 +63,11 @@ Table of Contents
 ## CIKM
 
 
+## AAAI
+1.A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield
+  (https://arxiv.org/abs/2111.08900)
+
+
 
 ## Report
 <!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
