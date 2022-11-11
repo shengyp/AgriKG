@@ -79,6 +79,11 @@ Table of Contents
 5.Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)
 (https://ojs.aaai.org/index.php/AAAI/article/view/17951)
 
+6.Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback.
+(https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
+
+
+
 
 ## ICDE
 
