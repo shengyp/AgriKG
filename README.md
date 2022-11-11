@@ -76,8 +76,11 @@ Table of Contents
 4.Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm
 (https://pike.psu.edu/publications/iaai22.pdf)
 
+5.Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)
+(https://ojs.aaai.org/index.php/AAAI/article/view/17951)
 
 
+## ICDE
 
 ## Report
 <!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
