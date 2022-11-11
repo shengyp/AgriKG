@@ -40,6 +40,13 @@ Table of Contents
 2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
 
 
+3. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
+
+
+4. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
+
+ 
+
 
 ## Report
 <!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
