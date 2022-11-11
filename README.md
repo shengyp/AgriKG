@@ -67,6 +67,9 @@ Table of Contents
 1.A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield
   (https://arxiv.org/abs/2111.08900)
 
+2.Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM Toward More Reliable Digital Ag
+(https://aaai-2022.virtualchair.net/poster_emer170)
+
 
 
 ## Report
