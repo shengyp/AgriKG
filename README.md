@@ -46,6 +46,22 @@ Table of Contents
 4. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
  
+## 学报
+
+1. 张海瑜;陈庆龙;张斯静;张子怡;杨帆;李鑫星 基于语义知识图谱的农业知识智能检索方法 农业机械学报2021 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSdvCJF2sD5H4yKfNLTgHyZW6JDkney2ie4V7WWEv4993X37DD5Hu7VNrR0DuO_R5vZ4ZzpS9OlKGdAL6GNdukikEP8YyIfUX6p-waNfy7F47sluoiOCN0v&uniplatform=NZKPT)
+2. 吴华瑞;郭威;邓颖;王郝日钦;韩笑;黄素芳; 	农业文本语义理解技术综述 农业机械学报2022 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSL6ViXOtXHTSLFlklN3zD8QKnhns1rQIpEKVcUl5OSslDgmzT8pQoq4OSIEpmEbA6_o-hovm-6Os-o17fj-CvakP9j3fzui7hq4I_QzAgZ78qtjUQrh8yRQ_Yy5-fldQA=&uniplatform=NZKPT)
+3. 袁培森;李润隆;王翀;徐焕良; 	基于BERT的水稻表型知识图谱实体关系抽取研究 农业机械学报2021 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJRrDyiJRjZov2XHVT0RMmXSi1hf1VfpEl8PLeNPm8wMqd58qVlmtmMjBbnfIHXwfjjYygc1w9YJXWVJMT0GSQx32g6-tx6plVRBXpmSSEExYjQzt3Fx3KT3jdslTAaegd8=&uniplatform=NZKPT)
+4. 张博凯;李想;  基于知识图谱的Android端农技智能问答系统研究 农业机械学报2021 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSlDwqacFtsl3fTLj1_f5mfDABBcdLAojYpn6MgHUM2rDQwrh93bHXY52VpAMrozo8U8tgVCrY8sJT_6nbsFs-wW9If25ozkj2ui0yGk65ZS2fS2Y9DxeNDPswq3gF9FxA=&uniplatform=NZKPT)
+5. 赵明;杜亚茹;杜会芳;张家军;王红说;陈瑛; 植物领域知识图谱构建中本体非分类关系提取方法 农业机械学报2016 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSB1SnuHVllIRRvsICp4R9zX16iTG0QgqqAJIh71W3Am72txsIvLErLZcugtK1SFVC5VIQROOd_DuI_IXUFvkG8bWBLJcyRMBK6dR2BuIKyczZhQIpnrut27yXuAYCZIlI=&uniplatform=NZKPT)
+6. 李亮德;王秀娟;康孟珍;华净;樊梦涵; 	基于语义融合与模型蒸馏的农业实体识别 智慧农业(中英文)2021 [[paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZHNY202101012&uniplatform=NZKPT&v=FXIe2_ZGP7u2RWrCANeW2U3RS3upAd66wO9tymtgjeNpQ5h1fVDdL48dxGoSWsRK)
+7. 李岩;胡文岭;  基于知识图谱的农业知识问答系统研究 智慧农业导刊2021 [[paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=DZHN202111006&uniplatform=NZKPT&v=tcNQQYLksxBvyAYt4Itl3EBhsXoZumnWBbiCDHAdtvKia2fwG0XW3U4-uvF5Je_1)
+
+## IJCAI
+1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition IJCAI 2022.[[paper]](https://www.ijcai.org/proceedings/2022/715)
+2. Anoushka Vyas, Sambaran Bandyopadhyay Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/720)
+
+## CIKM
+
 
 
 ## Report
