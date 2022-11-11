@@ -68,7 +68,7 @@ Table of Contents
   (https://arxiv.org/abs/2111.08900)
 
 2.Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM Toward More Reliable Digital Ag
-(https://aaai-2022.virtualchair.net/poster_emer170)
+(https://www.aaai.org/AAAI22Papers/IAAI-00170-JiangT.pdf)
 
 3.Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data
 (https://dblp.uni-trier.de/rec/conf/dev/WangTDLE18.html)
