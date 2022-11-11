@@ -73,6 +73,10 @@ Table of Contents
 3.Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data
 (https://dblp.uni-trier.de/rec/conf/dev/WangTDLE18.html)
 
+4.Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm
+(https://pike.psu.edu/publications/iaai22.pdf)
+
+
 
 
 ## Report
