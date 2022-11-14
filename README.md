@@ -18,6 +18,7 @@ Table of Contents
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
   * [Downstream Applications](#Downstream_Applications)
   * [Soil Moisture](#Soil_Moisture)
+  * [Crop Yield Prediction](#Crop_Yield_Prediction)
   * [Thesis](#Thesis)
   * [Tools](#Tools)
 
@@ -70,8 +71,7 @@ Table of Contents
 2.Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM Toward More Reliable Digital Ag
 (https://www.aaai.org/AAAI22Papers/IAAI-00170-JiangT.pdf)
 
-3.Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data
-(https://dblp.uni-trier.de/rec/conf/dev/WangTDLE18.html)
+
 
 4.Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm
 (https://pike.psu.edu/publications/iaai22.pdf)
@@ -163,9 +163,13 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
 
 
+
+## Crop_Yield_Prediction
+1. Anna X. Wang, Caelin Tran, Nikhil Desai, David Lobell, Stefano Ermon. **Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data**. COMPSS 2018. [[Paper]](https://dl.acm.org/doi/10.1145/3209811.3212707)
+
+
 <!-- ## Temporal_Relation_Checking
 1. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
-
 
 
 ## Temporal_Text_Mining
@@ -228,8 +232,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 <!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
-
-
 
 
 
