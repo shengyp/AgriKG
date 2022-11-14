@@ -210,7 +210,7 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 
-[三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
+<!-- [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA) -->
 
 
 <!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
