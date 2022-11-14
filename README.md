@@ -11,6 +11,7 @@ Table of Contents
   * [Report](#Report)
   * [Task](#Task)
   * [Dataset](#Dataset)
+  * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
   * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
   * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
@@ -111,6 +112,13 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 
+
+## Special_Track_on_Top-tier_Venues
+[[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
+
+
+
+
 ## Agriculture-Aware_Knowledge_Extraction
 1. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
 
@@ -136,7 +144,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 1. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
 
 
-2. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法** 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+2. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
 
 
 
