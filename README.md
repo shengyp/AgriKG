@@ -61,31 +61,9 @@ Table of Contents
 
 
 <!-- ## IJCAI-22 -->
-
-
 <!-- ## CIKM -->
-
-
-## AAAI
-
-2.Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM Toward More Reliable Digital Ag
-(https://www.aaai.org/AAAI22Papers/IAAI-00170-JiangT.pdf)
-
-
-
-4.Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm
-(https://pike.psu.edu/publications/iaai22.pdf)
-
-5.Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)
-(https://ojs.aaai.org/index.php/AAAI/article/view/17951)
-
-6.Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback.
-(https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
-
-
-
-
-## ICDE
+<!-- ## AAAI -->
+<!-- ## ICDE -->
 
 <!-- ## Report -->
 <!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
@@ -146,16 +124,25 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 ## Downstream_Applications
-1. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
+1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
 
 
-2. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
+2. Vishal Vinod, Vipul Gaurav, Tushar Sharma, Savita Choudhary. **Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)**. AAAI 2022. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17951)
 
 
-3. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+3. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
 
 
-4. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
+4. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
+
+
+5. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+
+
+6. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
+
+
+7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
 
 
 
@@ -166,6 +153,10 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Crop_Yield_Prediction
 1. Anna X. Wang, Caelin Tran, Nikhil Desai, David Lobell, Stefano Ermon. **Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data**. COMPSS 2018. [[Paper]](https://dl.acm.org/doi/10.1145/3209811.3212707)
+
+
+2. Tian Jiang, Meichen Huang, Ignacio Segovia-Dominguez, Nathaniel Newlands, Yulia Gel. **Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM: Toward More Reliable Digital Agriculture Insurance**. AAAI 2022. [[Paper]](https://aaai-2022.virtualchair.net/poster_emer170)
+
 
 
 <!-- ## Temporal_Relation_Checking
@@ -206,15 +197,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 2. Nathanael Chambers, Taylor Cassidy, Bill McDowell
 , and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf). TACL 2014. [[Paper]](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf)
-
-
-
-
-## Event_Centric_Temporal_Knowledge_Graph
-1. Dinesh Raghu, Surag Nair, and Mausam. [Inferring Temporal Knowledge for Near-Periodic Recurrent Events](https://www.ijcai.org/Proceedings/2018/0598.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0598.pdf)
-
-
-2. Simon Gottschalk and Elena Demidova. [EventKG: A Multilingual Event-Centric Temporal Knowledge Graph](https://arxiv.org/pdf/1804.04526.pdf). ESWC 2018. [[Paper]](https://arxiv.org/pdf/1804.04526.pdf)
 
 
 ## Evolution_Analysis_and_Prediction_based_Event
@@ -258,4 +240,4 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 
-updated in 2022.11.10
+updated in 2022.11.14
