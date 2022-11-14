@@ -9,7 +9,7 @@ Table of Contents
 
   * [Survey](#Survey)
   * [Report](#Report)
-  * [Task](#Task)
+  <!-- * [Task](#Task) -->
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
   * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
@@ -94,10 +94,8 @@ Table of Contents
 Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. --> 
 
 
-
-## Task
-1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013.
-
+<!-- ## Task
+1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013. -->
 
 
 
