@@ -12,6 +12,7 @@ Table of Contents
   * [Task](#Task)
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
+  * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
   * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
   * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
@@ -63,10 +64,8 @@ Table of Contents
 7. 李岩;胡文岭;  基于知识图谱的农业知识问答系统研究 智慧农业导刊2021 [[paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=DZHN202111006&uniplatform=NZKPT&v=tcNQQYLksxBvyAYt4Itl3EBhsXoZumnWBbiCDHAdtvKia2fwG0XW3U4-uvF5Je_1)
 
 
+<!-- ## IJCAI-22 -->
 
-## IJCAI
-1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition IJCAI 2022.[[paper]](https://www.ijcai.org/proceedings/2022/715)
-2. Anoushka Vyas, Sambaran Bandyopadhyay Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/720)
 
 ## CIKM
 
@@ -95,7 +94,7 @@ Table of Contents
 
 ## ICDE
 
-## Report
+<!-- ## Report -->
 <!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
 Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. --> 
 
@@ -116,6 +115,10 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 ## Special_Track_on_Top-tier_Venues
 [[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
 
+
+
+## Agriculture-Aware_Language_Models
+1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
 
 
 
@@ -151,7 +154,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 ## Soil_Moisture
 1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
-
 
 
 <!-- ## Temporal_Relation_Checking
