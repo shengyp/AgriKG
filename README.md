@@ -46,22 +46,17 @@ Table of Contents
 2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
 
 
-3. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
+3. 吴华瑞, 郭威, 邓颖, 王郝日钦, 韩笑, 黄素芳. **农业文本语义理解技术综述**. 农业机械学报 2022. [[paper]](http://www.j-csam.org/jcsam/ch/reader/create_pdf.aspx?file_no=20220501&flag=1&journal_id=jcsam)
 
 
-4. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
-
- 
-
-## 学报
+4. 李岩, 胡文岭. **基于知识图谱的农业知识问答系统研究**. 智慧农业导刊 2021. [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=1046761d-737b-4fa9-88f2-02a6a14d220f)
 
 
-2. 吴华瑞;郭威;邓颖;王郝日钦;韩笑;黄素芳; 	农业文本语义理解技术综述 农业机械学报2022 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSL6ViXOtXHTSLFlklN3zD8QKnhns1rQIpEKVcUl5OSslDgmzT8pQoq4OSIEpmEbA6_o-hovm-6Os-o17fj-CvakP9j3fzui7hq4I_QzAgZ78qtjUQrh8yRQ_Yy5-fldQA=&uniplatform=NZKPT)
-3. 袁培森;李润隆;王翀;徐焕良; 	基于BERT的水稻表型知识图谱实体关系抽取研究 农业机械学报2021 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJRrDyiJRjZov2XHVT0RMmXSi1hf1VfpEl8PLeNPm8wMqd58qVlmtmMjBbnfIHXwfjjYygc1w9YJXWVJMT0GSQx32g6-tx6plVRBXpmSSEExYjQzt3Fx3KT3jdslTAaegd8=&uniplatform=NZKPT)
-4. 张博凯;李想;  基于知识图谱的Android端农技智能问答系统研究 农业机械学报2021 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSlDwqacFtsl3fTLj1_f5mfDABBcdLAojYpn6MgHUM2rDQwrh93bHXY52VpAMrozo8U8tgVCrY8sJT_6nbsFs-wW9If25ozkj2ui0yGk65ZS2fS2Y9DxeNDPswq3gF9FxA=&uniplatform=NZKPT)
-5. 赵明;杜亚茹;杜会芳;张家军;王红说;陈瑛; 植物领域知识图谱构建中本体非分类关系提取方法 农业机械学报2016 [[paper]](https://t.cnki.net/kcms/article/abstract?v=WPzqJZHPuJSB1SnuHVllIRRvsICp4R9zX16iTG0QgqqAJIh71W3Am72txsIvLErLZcugtK1SFVC5VIQROOd_DuI_IXUFvkG8bWBLJcyRMBK6dR2BuIKyczZhQIpnrut27yXuAYCZIlI=&uniplatform=NZKPT)
-6. 李亮德;王秀娟;康孟珍;华净;樊梦涵; 	基于语义融合与模型蒸馏的农业实体识别 智慧农业(中英文)2021 [[paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZHNY202101012&uniplatform=NZKPT&v=FXIe2_ZGP7u2RWrCANeW2U3RS3upAd66wO9tymtgjeNpQ5h1fVDdL48dxGoSWsRK)
-7. 李岩;胡文岭;  基于知识图谱的农业知识问答系统研究 智慧农业导刊2021 [[paper]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=DZHN202111006&uniplatform=NZKPT&v=tcNQQYLksxBvyAYt4Itl3EBhsXoZumnWBbiCDHAdtvKia2fwG0XW3U4-uvF5Je_1)
+5. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
+
+
+6. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
+
 
 
 <!-- ## IJCAI-22 -->
@@ -123,7 +118,18 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 ## Agriculture-Aware_Knowledge_Extraction
-1. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
+1. 袁培森, 李润隆, 王翀, 徐焕良. **基于BERT的水稻表型知识图谱实体关系抽取研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=7104788350)
+
+
+2. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
+
+
+3. 李亮德, 王秀娟, 康孟珍, 华净, 樊梦涵. **基于语义融合与模型蒸馏的农业实体识别**. 智慧农业 (中英文) 2021. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.2021.3.1.202012-SA001)
+
+
+
+4. 赵明, 杜亚茹, 杜会芳, 张家军, 王红说, 陈瑛. **植物领域知识图谱构建中本体非分类关系提取方法**.  农业机械学报 2016. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=670145850&from=Qikan_Search_Index)
+
 
 
 
@@ -139,7 +145,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 2. 吴赛赛, 周爱莲, 谢能付, 梁晓贺, 汪汇涓, 李小雨, 陈桂鹏. **基于深度学习的作物病虫害可视化知识图谱构建**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20202421?st=search)
 
 
-3. 张娟,王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
+3. 张娟, 王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
 
 
 
@@ -149,6 +155,8 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 2. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
 
+
+3. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
 
 
 
