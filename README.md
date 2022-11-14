@@ -62,12 +62,10 @@ Table of Contents
 <!-- ## IJCAI-22 -->
 
 
-## CIKM
+<!-- ## CIKM -->
 
 
 ## AAAI
-1.A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield
-  (https://arxiv.org/abs/2111.08900)
 
 2.Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM Toward More Reliable Digital Ag
 (https://www.aaai.org/AAAI22Papers/IAAI-00170-JiangT.pdf)
@@ -148,13 +146,16 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 ## Downstream_Applications
-1. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
+1. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
 
 
-2. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+2. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
 
 
-3. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
+3. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+
+
+4. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
 
 
 
