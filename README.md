@@ -7,9 +7,9 @@ Here, we are concentrate on collection of research papers involving temporal-awa
 Table of Contents
 =================
 
+  <!-- * [Task](#Task) -->
   * [Survey](#Survey)
   * [Report](#Report)
-  <!-- * [Task](#Task) -->
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
   * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
