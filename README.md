@@ -239,5 +239,8 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 [Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
+##ICML
+Jonathan Binas,Leonie Luginbuehl,Yoshua Bengio **Reinforcement Learning for Sustainable Agriculture**(https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
+
 
 updated in 2022.11.14
