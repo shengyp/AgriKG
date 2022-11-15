@@ -105,6 +105,12 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 4. 赵明, 杜亚茹, 杜会芳, 张家军, 王红说, 陈瑛. **植物领域知识图谱构建中本体非分类关系提取方法**.  农业机械学报 2016. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=670145850&from=Qikan_Search_Index)
 
 
+5. Quoc HungNgo;Tahar Kechadi;Nhien-AnLe-Khac **Knowledge representation in digital agriculture: A step towards standardised model**; Computers and Electronics in Agriculture2022[paper](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
+
+
+6. JiZhou;JiuxiLi;ChunshanWang;HuaruiWu;ChunjiangZhao;GuifaTeng; **Crop disease identification and interpretation method based on multimodal deep learning**; Computers and Electronics in Agriculture2021[paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
+
+
 
 
 ## Agriculture-Aware_Knowledge_Reasoning
