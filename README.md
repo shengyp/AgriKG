@@ -145,6 +145,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
 
 
+8.Jonathan Binas,Leonie Luginbuehl,Yoshua Bengio . **Reinforcement Learning for Sustainable Agriculture**.(https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
+
+
 
 ## Soil_Moisture
 1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
@@ -239,8 +242,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 [Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
-##ICML
-Jonathan Binas,Leonie Luginbuehl,Yoshua Bengio **Reinforcement Learning for Sustainable Agriculture**(https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
 
 
 updated in 2022.11.14
