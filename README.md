@@ -61,6 +61,9 @@ Table of Contents
 
 7. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
+8. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou; AgriKG: **An Agricultural Knowledge Graph and Its Applications**; DASFAA 2019 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
+
+
 
 
 <!-- ## IJCAI-22 -->
@@ -129,6 +132,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 3. 张娟, 王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
 
+4. Liu Xiaoxue; Bai Xuesong; Wang Longhe; Ren Bingyuan; Lu Shuhan; Li Lin; **Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases**; IEEE 2019 [[paper]](https://ieeexplore.ieee.org/abstract/document/8710246)
 
 
 ## Downstream_Applications
