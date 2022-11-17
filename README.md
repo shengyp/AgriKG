@@ -53,10 +53,13 @@ Table of Contents
 4. 李岩, 胡文岭. **基于知识图谱的农业知识问答系统研究**. 智慧农业导刊 2021. [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=1046761d-737b-4fa9-88f2-02a6a14d220f)
 
 
-5. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
+5. Jonathan Binas, Leonie Luginbuehl, Yoshua Bengio. **Reinforcement Learning for Sustainable Agriculture**. CCAI workshop at ICML 2019. [[Paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
 
 
-6. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
+6. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
+
+
+7. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
 
 
@@ -92,23 +95,22 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 ## Agriculture-Aware_Knowledge_Extraction
-1. 袁培森, 李润隆, 王翀, 徐焕良. **基于BERT的水稻表型知识图谱实体关系抽取研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=7104788350)
+1. Quoc HungNgo, Tahar Kechadi, Nhien-AnLe-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
 
 
-2. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
+2. 袁培森, 李润隆, 王翀, 徐焕良. **基于BERT的水稻表型知识图谱实体关系抽取研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=7104788350)
 
 
-3. 李亮德, 王秀娟, 康孟珍, 华净, 樊梦涵. **基于语义融合与模型蒸馏的农业实体识别**. 智慧农业 (中英文) 2021. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.2021.3.1.202012-SA001)
+3. 李鑫星, 张领先, 傅泽田, 温皓杰. **呼叫中心与专家系统耦合的农业知识获取方法**. 农业工程学报 2021. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/2011531?st=search)
 
 
-
-4. 赵明, 杜亚茹, 杜会芳, 张家军, 王红说, 陈瑛. **植物领域知识图谱构建中本体非分类关系提取方法**.  农业机械学报 2016. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=670145850&from=Qikan_Search_Index)
-
-
-5. Quoc HungNgo;Tahar Kechadi;Nhien-AnLe-Khac **Knowledge representation in digital agriculture: A step towards standardised model**; Computers and Electronics in Agriculture2022[[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
+4. 李亮德, 王秀娟, 康孟珍, 华净, 樊梦涵. **基于语义融合与模型蒸馏的农业实体识别**. 智慧农业 (中英文) 2021. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.2021.3.1.202012-SA001)
 
 
-6. JiZhou;JiuxiLi;ChunshanWang;HuaruiWu;ChunjiangZhao;GuifaTeng; **Crop disease identification and interpretation method based on multimodal deep learning**; Computers and Electronics in Agriculture2021[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
+5. 赵明, 杜亚茹, 杜会芳, 张家军, 王红说, 陈瑛. **植物领域知识图谱构建中本体非分类关系提取方法**.  农业机械学报 2016. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=670145850&from=Qikan_Search_Index)
+
+
+6. Ji Zhou, JiuxiLi, Chunshan Wang, Huarui Wu, Chunjiang Zhao, GuifaTeng. **Crop disease identification and interpretation method based on multimodal deep learning**. Computers and Electronics in Agriculture 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
 
 
 
@@ -149,9 +151,6 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
-
-
-8.Jonathan Binas,Leonie Luginbuehl,Yoshua Bengio . **Reinforcement Learning for Sustainable Agriculture**.(https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
 
 
 
