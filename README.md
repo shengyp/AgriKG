@@ -53,19 +53,16 @@ Table of Contents
 4. 李岩, 胡文岭. **基于知识图谱的农业知识问答系统研究**. 智慧农业导刊 2021. [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=1046761d-737b-4fa9-88f2-02a6a14d220f)
 
 
-5. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
+5. Liu Xiaoxue, Bai Xuesong, Wang Longhe, Ren Bingyuan, Lu Shuhan, Li Lin. **Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases**. IEEE Access 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8710246)
 
 
-6. Liu Xiaoxue, Bai Xuesong, Wang Longhe, Ren Bingyuan, Lu Shuhan, Li Lin. **Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases**. IEEE Access 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8710246)
+6. Jonathan Binas, Leonie Luginbuehl, Yoshua Bengio. **Reinforcement Learning for Sustainable Agriculture**. CCAI workshop at ICML 2019. [[Paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
 
 
-7. Jonathan Binas, Leonie Luginbuehl, Yoshua Bengio. **Reinforcement Learning for Sustainable Agriculture**. CCAI workshop at ICML 2019. [[Paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
+7. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
 
 
-8. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
-
-
-9. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
+8. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
 
 
@@ -138,6 +135,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 3. 张娟, 王茂军. **国际农村空间多元化研究的知识图谱分析**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201637?st=search)
 
 
+4. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
 
 
 
