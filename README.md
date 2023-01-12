@@ -40,6 +40,13 @@ Table of Contents
 [农业方面有哪些著名的期刊？](https://www.zhihu.com/question/40591146)
 
 
+[中国农业科学](https://www.chinaagrisci.com/CN/0578-1752/home.shtml)
+
+
+[农业工程学报](http://www.tcsae.org/nygcxb/home)
+
+
+
 ## Survey
 1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
 
