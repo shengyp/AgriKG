@@ -17,6 +17,7 @@ Table of Contents
   * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
   * [Downstream Applications](#Downstream_Applications)
+  * [Gene-phenotype Associations and Analysis](#Gene-phenotype_Associations_and_Analysis)
   * [Soil Moisture](#Soil_Moisture)
   * [Crop Yield Prediction](#Crop_Yield_Prediction)
   * [Thesis](#Thesis)
@@ -166,6 +167,21 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
+
+
+
+## Gene-phenotype_Associations_and_Analysis
+1. John O Woods, Ulf Martin Singh-Blom, Jon M Laurent, Kriston L McGary, and Edward M Marcotte. **Prediction of gene-phenotype associations in humans, mice, and plants using phenologs**. BMC Bioinformatics. 2013. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/23800157/)
+
+
+2. Christopher J. Mungall, Julie A. McMurry, Sebastian Köhler, James P. Balhoff, Charles Borromeo, Matthew Brush, Seth Carbon, Tom Conlin, Nathan Dunn, Mark Engelstad, Erin Foster, J.P. Gourdine, Julius O.B. Jacobsen, Dan Keith, Bryan Laraway, Suzanna E. Lewis, Jeremy NguyenXuan, Kent Shefchek, Nicole Vasilevsky, Zhou Yuan, Nicole Washington, Harry Hochheiser, Tudor Groza, Damian Smedley, Peter N. Robinson, Melissa A. Haendel. **The Monarch Initiative: an integrative data and analytic platform connecting phenotypes to genotypes across species**. Nucleic Acids Research 2017. [[Paper]](https://academic.oup.com/nar/article/45/D1/D712/2605791?login=false)
+
+
+3. Şenay Kafkas, Robert Hoehndorf. **Ontology based text mining of gene-phenotype associations: application to candidate gene prediction**. Database 2019. [[Paper]](https://academic.oup.com/database/article/doi/10.1093/database/baz019/5365528?login=false)
+
+
+4. Wanneng Yang, Hui Feng, Xuehai Zhang, Jian Zhang, John H Doonan, William David Batchelor, Lizhong Xiong, and Jianbing Yan. **Crop Phenomics and High-Throughput Phenotyping: Past Decades, Current Challenges, and Future Perspectives**. Mol Plant 2020. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31981735/)
+
 
 
 
