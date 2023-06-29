@@ -47,6 +47,9 @@ Table of Contents
 [农业工程学报](http://www.tcsae.org/nygcxb/home)
 
 
+[河南农业科学](http://www.hnnykx.org.cn/CN/1004-3268/home.shtml)
+
+
 
 ## Survey
 1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
