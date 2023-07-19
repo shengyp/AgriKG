@@ -75,8 +75,6 @@ Table of Contents
 
 8. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
-9. Quoc Hung Ngo, Tahar Kechadi, Nhien-An Le-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022.  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
-
 
 
 <!-- ## IJCAI-22 -->
@@ -128,6 +126,8 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 6. Ji Zhou, JiuxiLi, Chunshan Wang, Huarui Wu, Chunjiang Zhao, GuifaTeng. **Crop disease identification and interpretation method based on multimodal deep learning**. Computers and Electronics in Agriculture 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
 
+7. Quoc Hung Ngo, Tahar Kechadi, Nhien-An Le-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022.  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
+
 
 
 
@@ -147,6 +147,10 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 4. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
+
+5. Tek Raj Chhetri, Armin Hohenegger, Anna Fensel, Mariam Aramide Kasali, Asiru Afeez Adekunle. **Toward improving prediction accuracy and user-level explainability using deep learning and knowledge graphs: A study on cassava disease**. Expert Systems with Applications 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423014574)
+
+6. DingJu Zhu, LianZi Xie, BingXu Chen, JianBin Tan, RenFeng Deng, Yongzhi Zheng, Qi Hu, Rashed Mustafa, Wanshan Chen, Shuai Yi, KaiLeung Yung, Andrew W.H.IP. **Knowledge graph and deep learning based pest detection and identification system for fruit quality**. Internet of Things 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2542660522001305)
 
 
 
