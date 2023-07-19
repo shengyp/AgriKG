@@ -75,7 +75,7 @@ Table of Contents
 
 8. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
-
+9. Quoc Hung Ngo, Tahar Kechadi, Nhien-An Le-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022.  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
 
 
 
