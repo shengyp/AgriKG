@@ -126,6 +126,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 6. Ji Zhou, JiuxiLi, Chunshan Wang, Huarui Wu, Chunjiang Zhao, GuifaTeng. **Crop disease identification and interpretation method based on multimodal deep learning**. Computers and Electronics in Agriculture 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
 
+7.Neha Kaushik, Niladri Chatterjee. **Automatic relationship extraction from agricultural text for ontology construction**. Information Processing in Agriculture 2018. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214317317300227) 
+
+
 
 
 ## Agriculture-Aware_Knowledge_Reasoning
