@@ -130,6 +130,8 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 8. Borja Espejo-Garcia, Francisco J. Lopez-Pellicer, Javier Lacasta, Ramón Piedrafita Moreno, F. Javier Zarazaga-Soria. **End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations**. Computers and Electronics in Agriculture 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169918311402)
 
+9. Chang Xu, Junqi Ding, Yan Qiao, Lingxian Zhang. **Tomato disease and pest diagnosis method based on the Stacking of prescription data**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922003143)
+
 
 
 
