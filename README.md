@@ -128,7 +128,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 7. Neha Kaushik, Niladri Chatterjee. **Automatic relationship extraction from agricultural text for ontology construction**. Information Processing in Agriculture 2018. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214317317300227)
 
-8.Borja Espejo-Garcia, Francisco J. Lopez-Pellicer, Javier Lacasta, Ramón Piedrafita Moreno, F. Javier Zarazaga-Soria. **End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations**. Computers and Electronics in Agriculture 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169918311402)
+8. Borja Espejo-Garcia, Francisco J. Lopez-Pellicer, Javier Lacasta, Ramón Piedrafita Moreno, F. Javier Zarazaga-Soria. **End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations**. Computers and Electronics in Agriculture 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169918311402)
 
 
 
