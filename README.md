@@ -118,6 +118,8 @@ Table of Contents
 6. Ji Zhou, JiuxiLi, Chunshan Wang, Huarui Wu, Chunjiang Zhao, GuifaTeng. **Crop disease identification and interpretation method based on multimodal deep learning**. Computers and Electronics in Agriculture 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
 
 
+7. 计洁, 金洲, 王儒敬, 刘海燕, 李志远. **基于递进式卷积网络的农业命名实体识别方法**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202303001)
+
 
 
 ## agriculture-aware_knowledge_reasoning
