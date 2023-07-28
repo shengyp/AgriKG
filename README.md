@@ -8,20 +8,21 @@ Table of Contents
 =================
 
   <!-- * [Task](#Task) -->
-  * [Survey](#Survey)
-  * [Report](#Report)
-  * [Dataset](#Dataset)
-  * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
-  * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
-  * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
-  * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
-  * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
-  * [Downstream Applications](#Downstream_Applications)
-  * [Gene-phenotype Associations and Analysis](#Gene-phenotype_Associations_and_Analysis)
-  * [Soil Moisture](#Soil_Moisture)
-  * [Crop Yield Prediction](#Crop_Yield_Prediction)
-  * [Thesis](#Thesis)
-  * [Tools](#Tools)
+  * [Survey](#survey)
+  * [Report](#report)
+  * [Dataset](#dataset)
+  * [Carbon Emission Computation](#carbon_emission_computation)
+  * [Special Track on Top-tier Venues](#special_track_on_top-tier_venues)
+  * [Agriculture-Aware Language Models](#agriculture-aware_language_models)
+  * [Agriculture-Aware Knowledge Extraction](#agriculture-aware_knowledge_extraction)
+  * [Agriculture-Aware Knowledge Reasoning](#agriculture-aware_knowledge_reasoning)
+  * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_knowledge_graph_construction)
+  * [Downstream Applications](#downstream_applications)
+  * [Gene-phenotype Associations and Analysis](#gene-phenotype_associations_and_analysis)
+  * [Soil Moisture](#soil_moisture)
+  * [Crop Yield Prediction](#crop_yield_prediction)
+  * [Thesis](#thesis)
+  * [Tools](#tools)
 
 <!--   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
@@ -51,7 +52,7 @@ Table of Contents
 
 
 
-## Survey
+## survey
 1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
 
 
@@ -77,38 +78,28 @@ Table of Contents
 
 
 
-<!-- ## IJCAI-22 -->
-<!-- ## CIKM -->
-<!-- ## AAAI -->
-<!-- ## ICDE -->
 
-<!-- ## Report -->
-<!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
-Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. --> 
-
-
-<!-- ## Task
-1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013. -->
-
-
-
-## Dataset
+## dataset
 1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
 
 
 
+## carbon_emission_computation
+1. 王想, 邹金桂, 李由, 孙韵, 张小栓. **食品冷链能效评估与碳排放核算研究综述**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202301007)
 
-## Special_Track_on_Top-tier_Venues
+
+
+## special_track_on_top-tier_venues
 [[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
 
 
 
-## Agriculture-Aware_Language_Models
+## agriculture-aware_language_models
 1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
 
 
 
-## Agriculture-Aware_Knowledge_Extraction
+## agriculture-aware_knowledge_extraction
 1. Quoc HungNgo, Tahar Kechadi, Nhien-AnLe-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
 
 
@@ -126,21 +117,15 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 6. Ji Zhou, JiuxiLi, Chunshan Wang, Huarui Wu, Chunjiang Zhao, GuifaTeng. **Crop disease identification and interpretation method based on multimodal deep learning**. Computers and Electronics in Agriculture 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004257)
 
-7. Neha Kaushik, Niladri Chatterjee. **Automatic relationship extraction from agricultural text for ontology construction**. Information Processing in Agriculture 2018. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214317317300227)
-
-8. Borja Espejo-Garcia, Francisco J. Lopez-Pellicer, Javier Lacasta, Ramón Piedrafita Moreno, F. Javier Zarazaga-Soria. **End-to-end sequence labeling via deep learning for automatic extraction of agricultural regulations**. Computers and Electronics in Agriculture 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169918311402)
-
-9. Chang Xu, Junqi Ding, Yan Qiao, Lingxian Zhang. **Tomato disease and pest diagnosis method based on the Stacking of prescription data**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922003143)
 
 
 
-
-## Agriculture-Aware_Knowledge_Reasoning
+## agriculture-aware_knowledge_reasoning
 1. 孙 敏, 罗卫红, 相 林, 冯万利, 吕慧明. **设施果菜病害诊断的知识表达与推理模型**. 农业工程学报 2012. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20121722?st=search)
 
 
 
-## Agriculture-Aware_Knowledge_Graph_Construction
+## agriculture-aware_knowledge_graph_construction
 1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
 
 
@@ -152,13 +137,9 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 4. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
 
-5. Tek Raj Chhetri, Armin Hohenegger, Anna Fensel, Mariam Aramide Kasali, Asiru Afeez Adekunle. **Toward improving prediction accuracy and user-level explainability using deep learning and knowledge graphs: A study on cassava disease**. Expert Systems with Applications 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423014574)
-
-6. DingJu Zhu, LianZi Xie, BingXu Chen, JianBin Tan, RenFeng Deng, Yongzhi Zheng, Qi Hu, Rashed Mustafa, Wanshan Chen, Shuai Yi, KaiLeung Yung, Andrew W.H.IP. **Knowledge graph and deep learning based pest detection and identification system for fruit quality**. Internet of Things 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2542660522001305)
 
 
-
-## Downstream_Applications
+## downstream_applications
 1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
 
 
@@ -181,7 +162,7 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 
-## Gene-phenotype_Associations_and_Analysis
+## gene-phenotype_associations_and_analysis
 1. John O Woods, Ulf Martin Singh-Blom, Jon M Laurent, Kriston L McGary, and Edward M Marcotte. **Prediction of gene-phenotype associations in humans, mice, and plants using phenologs**. BMC Bioinformatics. 2013. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/23800157/)
 
 
@@ -196,12 +177,12 @@ Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. -->
 
 
 
-## Soil_Moisture
+## soil_moisture
 1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
 
 
 
-## Crop_Yield_Prediction
+## crop_yield_prediction
 1. Anna X. Wang, Caelin Tran, Nikhil Desai, David Lobell, Stefano Ermon. **Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data**. COMPSS 2018. [[Paper]](https://dl.acm.org/doi/10.1145/3209811.3212707)
 
 
@@ -280,15 +261,15 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
  -->
 
 
-## Thesis
+## thesis
 1. Yafang Wang. [Methods and Tools for Temporal Knowledge Harvesting](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf). Dissertation 2013. [[Paper]](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf)
 
 
 
-## Tools
+## tools
 [Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
 
 
-updated in 2022.11.14
+updated in 2023.07.28, created in 2022.11.14
