@@ -15,7 +15,7 @@ Table of Contents
   * [Agriculture-Aware Language Models](#agriculture-aware_language_models)
   * [Agriculture-Aware Knowledge Extraction](#agriculture-aware_knowledge_extraction)
   * [Agriculture-Aware Knowledge Reasoning](#agriculture-aware_knowledge_reasoning)
-  * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_knowledge_graph_construction)
+  * [Agriculture-Aware Knowledge Graph Construction](#agriculture-aware_knowledge_graph_construction)
   * [Gene-phenotype Associations and Analysis](#gene-phenotype_associations_and_analysis)
   * [Soil Moisture](#soil_moisture)
   * [Crop Yield Prediction](#crop_yield_prediction)
@@ -144,11 +144,13 @@ Table of Contents
 
 
 
+
 ## crop_yield_prediction
 1. Anna X. Wang, Caelin Tran, Nikhil Desai, David Lobell, Stefano Ermon. **Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data**. COMPSS 2018. [[Paper]](https://dl.acm.org/doi/10.1145/3209811.3212707)
 
 
 2. Tian Jiang, Meichen Huang, Ignacio Segovia-Dominguez, Nathaniel Newlands, Yulia Gel. **Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM: Toward More Reliable Digital Agriculture Insurance**. AAAI 2022. [[Paper]](https://aaai-2022.virtualchair.net/poster_emer170)
+
 
 
 
@@ -169,6 +171,7 @@ Table of Contents
 
 
 [[节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/u9RqpiBfuH97B9amFXjMpg) | [[功能上新|节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/s4RLc2Sc5EbKJVMFWyVaSQ) 
+
 
 
 
@@ -198,6 +201,7 @@ Table of Contents
 
 
 <!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
+
 
 
 
