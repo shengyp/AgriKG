@@ -12,7 +12,6 @@ Table of Contents
   * [Report](#report)
   * [Dataset](#dataset)
   * [Carbon Emission Computation](#carbon_emission_computation)
-  * [Special Track on Top-tier Venues](#special_track_on_top-tier_venues)
   * [Agriculture-Aware Language Models](#agriculture-aware_language_models)
   * [Agriculture-Aware Knowledge Extraction](#agriculture-aware_knowledge_extraction)
   * [Agriculture-Aware Knowledge Reasoning](#agriculture-aware_knowledge_reasoning)
@@ -22,6 +21,7 @@ Table of Contents
   * [Crop Yield Prediction](#crop_yield_prediction)
   * [Carbon Footprints](#carbon_footprints)
   * [Other Downstream Applications](#other_downstream_applications)
+  * [Special Track on Top-tier Venues](#special_track_on_top-tier_venues)
   <!--  * [Thesis](#thesis)
   * [Tools](#tools)-->
 
@@ -74,11 +74,6 @@ Table of Contents
 
 ## carbon_emission_computation
 1. 王想, 邹金桂, 李由, 孙韵, 张小栓. **食品冷链能效评估与碳排放核算研究综述**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202301007)
-
-
-
-## special_track_on_top-tier_venues
-[[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
 
 
 
@@ -203,6 +198,11 @@ Table of Contents
 
 
 <!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
+
+
+
+## special_track_on_top-tier_venues
+[[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
 
 
 
