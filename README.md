@@ -17,11 +17,11 @@ Table of Contents
   * [Agriculture-Aware Knowledge Extraction](#agriculture-aware_knowledge_extraction)
   * [Agriculture-Aware Knowledge Reasoning](#agriculture-aware_knowledge_reasoning)
   * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_knowledge_graph_construction)
-  * [Downstream Applications](#downstream_applications)
   * [Gene-phenotype Associations and Analysis](#gene-phenotype_associations_and_analysis)
   * [Soil Moisture](#soil_moisture)
   * [Crop Yield Prediction](#crop_yield_prediction)
   * [Carbon Footprints](#carbon_footprints)
+  * [Other Downstream Applications](#other_downstream_applications)
   <!--  * [Thesis](#thesis)
   * [Tools](#tools)-->
 
@@ -129,29 +129,6 @@ Table of Contents
 
 
 
-## downstream_applications
-1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
-
-
-2. Vishal Vinod, Vipul Gaurav, Tushar Sharma, Savita Choudhary. **Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)**. AAAI 2022. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17951)
-
-
-3. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
-
-
-4. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
-
-
-5. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
-
-
-6. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
-
-
-7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
-
-
-
 ## gene-phenotype_associations_and_analysis
 1. John O Woods, Ulf Martin Singh-Blom, Jon M Laurent, Kriston L McGary, and Edward M Marcotte. **Prediction of gene-phenotype associations in humans, mice, and plants using phenologs**. BMC Bioinformatics. 2013. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/23800157/)
 
@@ -199,6 +176,27 @@ Table of Contents
 6. Eva Kern, Markus Dick, Jakob Drangmeister, Tim Hiller, Stefan Naumann, Achim Guldner. **Integrating Aspects of Carbon Footprints and Continuous Energy Efficiency Measurements into Green and Sustainable Software Engineering**. EnviroInfo 2013. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0195925514000687)
 
 
+
+## other_downstream_applications
+1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
+
+
+2. Vishal Vinod, Vipul Gaurav, Tushar Sharma, Savita Choudhary. **Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)**. AAAI 2022. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17951)
+
+
+3. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
+
+
+4. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search)
+
+
+5. 张海瑜, 陈庆龙, 张斯静, 张子怡, 杨帆, 李鑫星. **基于语义知识图谱的农业知识智能检索方法**. 农业机械学报 2021. [[paper]](http://www.j-csam.org/jcsam/ch/reader/view_abstract.aspx?flag=1&file_no=2021s020&journal_id=jcsam)
+
+
+6. 张博凯, 李想. **基于知识图谱的Android端农技智能问答系统研究**. 农业机械学报 2021. [[paper]](http://lib.cqvip.com/Qikan/Article/Detail?id=00002G0D553O7JP0MN508JP0MNR&from=Qikan_Search_Index)
+
+
+7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
 
 <!-- [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA) -->
 
