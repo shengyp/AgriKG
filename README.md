@@ -158,22 +158,23 @@ Table of Contents
 
 
 ## carbon_footprints
-1. Pulkit Piplani, Pritish Gulati, Shayna Malik, Shashwat Goyal, Meenal Gurbaxani, and Ganesh Bagler. **FoodPrint: Computing Carbon Footprint of Recipes**. ICDEW 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814678)
+1. Sushant Sharma and Sabyasachee Mishra. **Intelligent Transportation Systems-Enabled Optimal Emission Pricing Models for Reducing Carbon Footprints in a Bimodal Network**. J. Intell. Transp. Syst. 17(1). [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/15472450.2012.708618?journalCode=gits20)
 
 
-2. Varun Kohli, Sombuddha Chakravarty, Vinay Chamola, Kuldip Singh Sangwan, Sherali Zeadally. **An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions**. Digital Communications and Networks 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2352864822001390)
+2. Eva Kern, Markus Dick, Jakob Drangmeister, Tim Hiller, Stefan Naumann, Achim Guldner. **Integrating Aspects of Carbon Footprints and Continuous Energy Efficiency Measurements into Green and Sustainable Software Engineering**. EnviroInfo 2013. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0195925514000687)
 
 
-3. [[节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/u9RqpiBfuH97B9amFXjMpg) | [[功能上新|节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/s4RLc2Sc5EbKJVMFWyVaSQ) 
+3. Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, and Joelle Pineau. **Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2002.05651)
 
 
-4. Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, and Joelle Pineau. **Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2002.05651)
+4. Pulkit Piplani, Pritish Gulati, Shayna Malik, Shashwat Goyal, Meenal Gurbaxani, and Ganesh Bagler. **FoodPrint: Computing Carbon Footprint of Recipes**. ICDEW 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814678)
 
 
-5. Sushant Sharma and Sabyasachee Mishra. **Intelligent Transportation Systems-Enabled Optimal Emission Pricing Models for Reducing Carbon Footprints in a Bimodal Network**. J. Intell. Transp. Syst. 17(1). [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/15472450.2012.708618?journalCode=gits20)
+5. Varun Kohli, Sombuddha Chakravarty, Vinay Chamola, Kuldip Singh Sangwan, Sherali Zeadally. **An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions**. Digital Communications and Networks 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2352864822001390)
 
 
-6. Eva Kern, Markus Dick, Jakob Drangmeister, Tim Hiller, Stefan Naumann, Achim Guldner. **Integrating Aspects of Carbon Footprints and Continuous Energy Efficiency Measurements into Green and Sustainable Software Engineering**. EnviroInfo 2013. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0195925514000687)
+[[节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/u9RqpiBfuH97B9amFXjMpg) | [[功能上新|节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/s4RLc2Sc5EbKJVMFWyVaSQ) 
+
 
 
 
