@@ -21,21 +21,9 @@ Table of Contents
   * [Gene-phenotype Associations and Analysis](#gene-phenotype_associations_and_analysis)
   * [Soil Moisture](#soil_moisture)
   * [Crop Yield Prediction](#crop_yield_prediction)
-  * [Thesis](#thesis)
-  * [Tools](#tools)
-
-<!--   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
-  * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
-  * [Temporal Relation Checking](#Temporal_Relation_Checking)
-  * [Temporal Text Mining](#Temporal_Text_Mining) -->
-<!--   * [Event-Centric Temporal Data Mining](#Event_Centric_Temporal_Data_Mining)
-  * [Event-Centric Temporal Knowledge Graph](#Event_Centric_Temporal_Knowledge_Graph)
-  * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
-  * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
-  * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
-  * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
-  * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
-  * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs)  -->
+  * [Carbon Footprints](#carbon_footprints)
+  <!--  * [Thesis](#thesis)
+  * [Tools](#tools)-->
 
 
 
@@ -192,54 +180,23 @@ Table of Contents
 
 
 
-<!-- ## Temporal_Relation_Checking
-1. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
+## carbon_footprints
+1. Pulkit Piplani, Pritish Gulati, Shayna Malik, Shashwat Goyal, Meenal Gurbaxani, and Ganesh Bagler. **FoodPrint: Computing Carbon Footprint of Recipes**. ICDEW 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9814678)
 
 
-## Temporal_Text_Mining
-1. Junsha Chen, Neng Gao, Cong Xue, Chenyang Tu, and Daren Zha. [Perceiving Topic Bubbles: Local Topic Detection in Spatio-Temporal Tweet Stream](
-https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf). DASFAA 2019. [[Paper]](
-https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf)
+2. Varun Kohli, Sombuddha Chakravarty, Vinay Chamola, Kuldip Singh Sangwan, Sherali Zeadally. **An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions**. Digital Communications and Networks 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2352864822001390)
 
 
-2. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, and Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
+3. [[节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/u9RqpiBfuH97B9amFXjMpg) | [[功能上新|节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/s4RLc2Sc5EbKJVMFWyVaSQ) 
 
 
-3. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, and Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
+4. Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, and Joelle Pineau. **Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2002.05651)
 
 
-4. Yafang Wang, Maximilian Dylla, Marc Spaniol, and Gerhard Weikum. [Coupling Label Propagation and Constraints for Temporal Fact Extraction](
-https://www.aclweb.org/anthology/P12-2046.pdf). ACL 2012. [[Paper]](
-https://www.aclweb.org/anthology/P12-2046.pdf)
+5. Sushant Sharma and Sabyasachee Mishra. **Intelligent Transportation Systems-Enabled Optimal Emission Pricing Models for Reducing Carbon Footprints in a Bimodal Network**. J. Intell. Transp. Syst. 17(1). [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/15472450.2012.708618?journalCode=gits20)
 
 
-5. Yafang Wang, Bin Yang, Spyros Zoupanos, Marc Spaniol, and Gerhard Weikum. [Scalable Spatio-temporal Knowledge Harvesting](http://spyros.zoupanos.net/papers/www2011.pdf). WWW 2011. [[Paper]](http://spyros.zoupanos.net/papers/www2011.pdf)
-
-
-6. Yafang Wang, Mingjie Zhu, Lizhen Qu, Marc Spaniol, and Gerhard Weikum. [Timely YAGO: Harvesting, Querying, and Visualizing Temporal Knowledge from Wikipedia](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf). ECBT 2010. [[Paper]](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
-
-
-7. Qiaozhu Mei and Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
-
-
-## Event_Centric_Temporal_Data_Mining
-1. Shih-Ting Lin, Nathanael Chambers, and Greg Durrett. [Conditional Generation of Temporally-ordered Event Sequences](https://arxiv.org/pdf/2012.15786.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2012.15786.pdf)
-
-
-2. Nathanael Chambers, Taylor Cassidy, Bill McDowell
-, and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf). TACL 2014. [[Paper]](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf)
-
-
-## Evolution_Analysis_and_Prediction_based_Event
-1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, and Chengqi Zhang. [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/pdf/2005.11650v1.pdf). KDD 2020. [[Paper]](https://arxiv.org/pdf/2005.11650v1.pdf)  
-
-
-2. Jiaqi Liu, Qin Zhang, Luoyi Fu, Xinbing Wang, and Songwu Lu. [Evolving Knowledge Graphs](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf). Infocom 2019. [[Paper]](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
-
-
-3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf) -->
+6. Eva Kern, Markus Dick, Jakob Drangmeister, Tim Hiller, Stefan Naumann, Achim Guldner. **Integrating Aspects of Carbon Footprints and Continuous Energy Efficiency Measurements into Green and Sustainable Software Engineering**. EnviroInfo 2013. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0195925514000687)
 
 
 
@@ -247,29 +204,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 <!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
-
-
-
-<!-- ## Temporal_Commonsense_Understanding
-1. Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. [Temporal Common Sense Acquisition with Minimal Supervision](https://www.aclweb.org/anthology/2020.acl-main.678.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.678.pdf)
-
-
-2. Ben Zhou, Daniel Khashabi, Qiang Ning, and Dan Roth. [“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1332.pdf)
-
-
-
-## IR_for_Spatio_Temporal_Graphs 
-1. Zheyi Pan, Songyu Ke, Xiaodu Yang, et al. [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graphs](http://panzheyi.cc/publication/pan2021autostg/paper.pdf). WWW 2021. [[Paper]](http://panzheyi.cc/publication/pan2021autostg/paper.pdf)
- -->
-
-
-## thesis
-1. Yafang Wang. [Methods and Tools for Temporal Knowledge Harvesting](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf). Dissertation 2013. [[Paper]](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf)
-
-
-
-## tools
-[Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
 
