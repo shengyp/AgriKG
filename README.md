@@ -159,6 +159,10 @@ Table of Contents
 10. H. Song, Y. Li and Y. Wang, "Visualization and Analysis of Global Agricultural E-Commerce Research Based on Knowledge Graph," 2019 International Conference on Communications, Information System and Computer Engineering (CISCE), Haikou, China, 2019, pp. 480-485, doi: 10.1109/CISCE.2019.00112.[[paper]](https://ieeexplore.ieee.org/document/8805940)
 
 
+11. 朱成毅;杭波;.农业病虫害信息智能应答系统设计与实现[J].智慧农业导刊,2023,14:21-26+33 [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=751ee5e5-1bf2-4e6d-af9e-1f27db476ebb#)
+
+
+12. 李岩;胡文岭;.基于知识图谱的农业知识问答系统研究[J].智慧农业导刊,2021,11:20-22 [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=1046761d-737b-4fa9-88f2-02a6a14d220f#) 
 
 ## gene-phenotype_associations_and_analysis
 1. John O Woods, Ulf Martin Singh-Blom, Jon M Laurent, Kriston L McGary, and Edward M Marcotte. **Prediction of gene-phenotype associations in humans, mice, and plants using phenologs**. BMC Bioinformatics. 2013. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/23800157/)
