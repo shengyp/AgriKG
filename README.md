@@ -103,14 +103,29 @@ Table of Contents
 
 7. 计洁, 金洲, 王儒敬, 刘海燕, 李志远. **基于递进式卷积网络的农业命名实体识别方法**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202303001)
 
+
 8. P. Gómez-Pérez, T. N. Phan and J. Küeng, "Agricultural Knowledge Extraction from Text Sources Using a Distributed MapReduce Cluster," 2016 27th International Workshop on Database and Expert Systems Applications (DEXA), Porto, Portugal, 2016, pp. 29-33, doi: 10.1109/DEXA.2016.022. [[paper]] (https://ieeexplore.ieee.org/document/7816620)
+
 
 9. M. Nery, R. Santos, W. Santos, V. Lourenco and M. Moreno, "Facing Digital Agriculture Challenges with Knowledge Engineering," 2018 First International Conference on Artificial Intelligence for Industries (AI4I), Laguna Hills, CA, USA, 2018, pp. 118-119, doi: 10.1109/AI4I.2018.8665708. [[paper]](https://ieeexplore.ieee.org/document/8665708)
 
+
 11. N. Xiaohong, P. Qian, A. Maalla and L. ShaoQiang, "Research on the Construction of Agricultural Planting Big Data Corpus Based on Knowledge Graphs," 2023 IEEE 3rd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA), Chongqing, China, 2023, pp. 960-963, doi: 10.1109/ICIBA56860.2023.10165553. [[paper]](https://ieeexplore.ieee.org/document/10165553)
 
+
 12. V. G, D. Gupta and V. Kanjirangat, "Semi Supervised Approach for Relation Extraction in Agriculture Documents," 2022 OITS International Conference on Information Technology (OCIT), Bhubaneswar, India, 2022, pp. 199-204, doi: 10.1109/OCIT56763.2022.00046.[[paper]](https://ieeexplore.ieee.org/document/10053800)
-13. 
+
+
+13. L. Luo, W. Lu, B. Wei, Y. Qin and Y. Xiong, "Application of Internet Technology and Web Information Extraction Wrapper Based on DOM for Agricultural Data Acquisition," 2015 International Conference on Network and Information Systems for Computers, Wuhan, China, 2015, pp. 327-331, doi: 10.1109/ICNISC.2015.84.[[paper]](https://ieeexplore.ieee.org/document/7311897)
+
+
+14. M. Shoaib and A. Basharat, "Semantic Web Based Integrated Agriculture Information Framework," 2010 Second International Conference on Computer Research and Development, Kuala Lumpur, Malaysia, 2010, pp. 285-289, doi: 10.1109/ICCRD.2010.33.[[paper]](https://ieeexplore.ieee.org/document/5489540)
+
+
+15. T. Chen et al., "RoBERT-Agr: An Entity Relationship Extraction Model of Massive Agricultural Text Based on the RoBERTa and CRF Algorithm," 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA), Harbin, China, 2023, pp. 113-120, doi: 10.1109/ICBDA57405.2023.10105090.[[paper]](https://ieeexplore.ieee.org/document/10105090)
+
+
+16. M. Guo, J. Zhang, M. Li, Y. Geng and N. Geng, "Chinese Relation Extraction of Apple Diseases and Pests Based on A Dual-Channel Neural Network," 2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Haikou, Hainan, China, 2021, pp. 1229-1236, doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00188.[[paper]](https://ieeexplore.ieee.org/document/9780970)
 
 
 ## agriculture-aware_knowledge_reasoning
