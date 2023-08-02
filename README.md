@@ -110,22 +110,19 @@ Table of Contents
 9. M. Nery, R. Santos, W. Santos, V. Lourenco and M. Moreno, "Facing Digital Agriculture Challenges with Knowledge Engineering," 2018 First International Conference on Artificial Intelligence for Industries (AI4I), Laguna Hills, CA, USA, 2018, pp. 118-119, doi: 10.1109/AI4I.2018.8665708. [[paper]](https://ieeexplore.ieee.org/document/8665708)
 
 
-11. N. Xiaohong, P. Qian, A. Maalla and L. ShaoQiang, "Research on the Construction of Agricultural Planting Big Data Corpus Based on Knowledge Graphs," 2023 IEEE 3rd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA), Chongqing, China, 2023, pp. 960-963, doi: 10.1109/ICIBA56860.2023.10165553. [[paper]](https://ieeexplore.ieee.org/document/10165553)
+10. V. G, D. Gupta and V. Kanjirangat, "Semi Supervised Approach for Relation Extraction in Agriculture Documents," 2022 OITS International Conference on Information Technology (OCIT), Bhubaneswar, India, 2022, pp. 199-204, doi: 10.1109/OCIT56763.2022.00046.[[paper]](https://ieeexplore.ieee.org/document/10053800)
 
 
-12. V. G, D. Gupta and V. Kanjirangat, "Semi Supervised Approach for Relation Extraction in Agriculture Documents," 2022 OITS International Conference on Information Technology (OCIT), Bhubaneswar, India, 2022, pp. 199-204, doi: 10.1109/OCIT56763.2022.00046.[[paper]](https://ieeexplore.ieee.org/document/10053800)
+11. L. Luo, W. Lu, B. Wei, Y. Qin and Y. Xiong, "Application of Internet Technology and Web Information Extraction Wrapper Based on DOM for Agricultural Data Acquisition," 2015 International Conference on Network and Information Systems for Computers, Wuhan, China, 2015, pp. 327-331, doi: 10.1109/ICNISC.2015.84.[[paper]](https://ieeexplore.ieee.org/document/7311897)
 
 
-13. L. Luo, W. Lu, B. Wei, Y. Qin and Y. Xiong, "Application of Internet Technology and Web Information Extraction Wrapper Based on DOM for Agricultural Data Acquisition," 2015 International Conference on Network and Information Systems for Computers, Wuhan, China, 2015, pp. 327-331, doi: 10.1109/ICNISC.2015.84.[[paper]](https://ieeexplore.ieee.org/document/7311897)
+12. M. Shoaib and A. Basharat, "Semantic Web Based Integrated Agriculture Information Framework," 2010 Second International Conference on Computer Research and Development, Kuala Lumpur, Malaysia, 2010, pp. 285-289, doi: 10.1109/ICCRD.2010.33.[[paper]](https://ieeexplore.ieee.org/document/5489540)
 
 
-14. M. Shoaib and A. Basharat, "Semantic Web Based Integrated Agriculture Information Framework," 2010 Second International Conference on Computer Research and Development, Kuala Lumpur, Malaysia, 2010, pp. 285-289, doi: 10.1109/ICCRD.2010.33.[[paper]](https://ieeexplore.ieee.org/document/5489540)
+13. T. Chen et al., "RoBERT-Agr: An Entity Relationship Extraction Model of Massive Agricultural Text Based on the RoBERTa and CRF Algorithm," 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA), Harbin, China, 2023, pp. 113-120, doi: 10.1109/ICBDA57405.2023.10105090.[[paper]](https://ieeexplore.ieee.org/document/10105090)
 
 
-15. T. Chen et al., "RoBERT-Agr: An Entity Relationship Extraction Model of Massive Agricultural Text Based on the RoBERTa and CRF Algorithm," 2023 IEEE 8th International Conference on Big Data Analytics (ICBDA), Harbin, China, 2023, pp. 113-120, doi: 10.1109/ICBDA57405.2023.10105090.[[paper]](https://ieeexplore.ieee.org/document/10105090)
-
-
-16. M. Guo, J. Zhang, M. Li, Y. Geng and N. Geng, "Chinese Relation Extraction of Apple Diseases and Pests Based on A Dual-Channel Neural Network," 2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Haikou, Hainan, China, 2021, pp. 1229-1236, doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00188.[[paper]](https://ieeexplore.ieee.org/document/9780970)
+14. M. Guo, J. Zhang, M. Li, Y. Geng and N. Geng, "Chinese Relation Extraction of Apple Diseases and Pests Based on A Dual-Channel Neural Network," 2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Haikou, Hainan, China, 2021, pp. 1229-1236, doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00188.[[paper]](https://ieeexplore.ieee.org/document/9780970)
 
 
 ## agriculture-aware_knowledge_reasoning
@@ -145,7 +142,21 @@ Table of Contents
 
 4. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
 
+
 5. L. Xiaoxue, B. Xuesong, W. Longhe, R. Bingyuan, L. Shuhan and L. Lin, "Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases," in IEEE Access, vol. 7, pp. 62251-62264, 2019, doi: 10.1109/ACCESS.2019.2915987.[[paper]](https://ieeexplore.ieee.org/document/8710246)
+
+
+6. N. Xiaohong, P. Qian, A. Maalla and L. ShaoQiang, "Research on the Construction of Agricultural Planting Big Data Corpus Based on Knowledge Graphs," 2023 IEEE 3rd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA), Chongqing, China, 2023, pp. 960-963, doi: 10.1109/ICIBA56860.2023.10165553. [[paper]](https://ieeexplore.ieee.org/document/10165553)
+
+
+7. Q. Chenglin, S. Qing, Z. Pengzhou and Y. Hui, "Cn-MAKG: China Meteorology and Agriculture Knowledge Graph Construction Based on Semi-structured Data," 2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS), Singapore, 2018, pp. 692-696, doi: 10.1109/ICIS.2018.8466485.[[paper]](https://ieeexplore.ieee.org/document/8466485)
+
+
+8. P. Qian, A. Maalla, H. WenHai and L. ShaoQiang, "Agricultural Planting Big Data Q & A System Technology Research Based on Knowledge Graph," 2023 IEEE 3rd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA), Chongqing, China, 2023, pp. 955-959, doi: 10.1109/ICIBA56860.2023.10164900.[[paper]](https://ieeexplore.ieee.org/document/10164900)
+
+9. F. zhang, J. Wu, Y. Nie, L. Jiang, A. Zhou and N. Xie, "Research of Knowledge Graph Technology and its Applications in Agricultural Information Consultation Field," 2020 IEEE 39th International Performance Computing and Communications Conference (IPCCC), Austin, TX, USA, 2020, pp. 1-4, doi: 10.1109/IPCCC50635.2020.9391515.[[paper]](https://ieeexplore.ieee.org/document/9391515)
+
+10. H. Song, Y. Li and Y. Wang, "Visualization and Analysis of Global Agricultural E-Commerce Research Based on Knowledge Graph," 2019 International Conference on Communications, Information System and Computer Engineering (CISCE), Haikou, China, 2019, pp. 480-485, doi: 10.1109/CISCE.2019.00112.[[paper]](https://ieeexplore.ieee.org/document/8805940)
 
 
 
