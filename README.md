@@ -103,6 +103,14 @@ Table of Contents
 
 7. 计洁, 金洲, 王儒敬, 刘海燕, 李志远. **基于递进式卷积网络的农业命名实体识别方法**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202303001)
 
+8. P. Gómez-Pérez, T. N. Phan and J. Küeng, "Agricultural Knowledge Extraction from Text Sources Using a Distributed MapReduce Cluster," 2016 27th International Workshop on Database and Expert Systems Applications (DEXA), Porto, Portugal, 2016, pp. 29-33, doi: 10.1109/DEXA.2016.022. [[paper]] (https://ieeexplore.ieee.org/document/7816620)
+
+9. M. Nery, R. Santos, W. Santos, V. Lourenco and M. Moreno, "Facing Digital Agriculture Challenges with Knowledge Engineering," 2018 First International Conference on Artificial Intelligence for Industries (AI4I), Laguna Hills, CA, USA, 2018, pp. 118-119, doi: 10.1109/AI4I.2018.8665708. [[paper]](https://ieeexplore.ieee.org/document/8665708)
+
+11. N. Xiaohong, P. Qian, A. Maalla and L. ShaoQiang, "Research on the Construction of Agricultural Planting Big Data Corpus Based on Knowledge Graphs," 2023 IEEE 3rd International Conference on Information Technology, Big Data and Artificial Intelligence (ICIBA), Chongqing, China, 2023, pp. 960-963, doi: 10.1109/ICIBA56860.2023.10165553. [[paper]](https://ieeexplore.ieee.org/document/10165553)
+
+12. V. G, D. Gupta and V. Kanjirangat, "Semi Supervised Approach for Relation Extraction in Agriculture Documents," 2022 OITS International Conference on Information Technology (OCIT), Bhubaneswar, India, 2022, pp. 199-204, doi: 10.1109/OCIT56763.2022.00046.[[paper]](https://ieeexplore.ieee.org/document/10053800)
+13. 
 
 
 ## agriculture-aware_knowledge_reasoning
@@ -121,6 +129,8 @@ Table of Contents
 
 
 4. Yuanzhe Chen, Jun Kuang, Dawei Cheng, Jianbin Zheng, Ming Gao; Aoying Zhou. **AgriKG: An Agricultural Knowledge Graph and Its Applications**. DASFAA 2019. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_81)
+
+5. L. Xiaoxue, B. Xuesong, W. Longhe, R. Bingyuan, L. Shuhan and L. Lin, "Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases," in IEEE Access, vol. 7, pp. 62251-62264, 2019, doi: 10.1109/ACCESS.2019.2915987.[[paper]](https://ieeexplore.ieee.org/document/8710246)
 
 
 
