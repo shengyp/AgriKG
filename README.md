@@ -106,7 +106,7 @@ Table of Contents
 7. 计洁, 金洲, 王儒敬, 刘海燕, 李志远. **基于递进式卷积网络的农业命名实体识别方法**. 智慧农业 2023. [[paper]](http://www.smartag.net.cn/CN/10.12133/j.smartag.SA202303001)
 
 
-8. P. Gómez-Pérez, T. N. Phan and J. Küeng. **Agricultural Knowledge Extraction from Text Sources Using a Distributed MapReduce Cluster**. The 27th International Workshop on Database and Expert Systems Applications (DEXA), Porto, Portugal, 2016, pp. 29-33, doi: 10.1109/DEXA.2016.022. [[paper]] (https://ieeexplore.ieee.org/document/7816620)
+8. P. Gómez-Pérez, T. N. Phan and J. Küeng. **Agricultural Knowledge Extraction from Text Sources Using a Distributed MapReduce Cluster**. The 27th International Workshop on Database and Expert Systems Applications (DEXA), Porto, Portugal, 2016, pp. 29-33. [[paper]](https://ieeexplore.ieee.org/document/7816620)
 
 
 9. M. Nery, R. Santos, W. Santos, V. Lourenco and M. Moreno. **Facing Digital Agriculture Challenges with Knowledge Engineering**. 2018 First International Conference on Artificial Intelligence for Industries (AI4I), Laguna Hills, CA, USA, 2018, pp. 118-119, doi: 10.1109/AI4I.2018.8665708. [[paper]](https://ieeexplore.ieee.org/document/8665708)
