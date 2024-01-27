@@ -66,6 +66,10 @@ Table of Contents
 
 8. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
 
+9. 穆维松，刘天琪，苗子溦，等. 知识图谱技术及其在农业领域应用研究进展[J]. 农业工程学报，2023，39(16)：1-12. doi:  10.11975/j.issn.1002-6819.202210028. [[Paper]](http://www.tcsae.org/cn/article/doi/10.11975/j.issn.1002-6819.202210028)
+
+10. Ishana Attri, Lalit Kumar Awasthi, Teek Parval Sharma, Priyanka Rathee, A review of deep learning techniques used in agriculture, Ecological Informatics, Volume 77, 2023, 102217, ISSN 1574-9541, https://doi.org/10.1016/j.ecoinf.2023.102217. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1574954123002467)
+
 
 
 
@@ -126,6 +130,12 @@ Table of Contents
 
 14. M. Guo, J. Zhang, M. Li, Y. Geng, and N. Geng. **Chinese Relation Extraction of Apple Diseases and Pests Based on A Dual-Channel Neural Network**. 2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Haikou, Hainan, China, 2021, pp. 1229-1236, doi: 10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00188. [[paper]](https://ieeexplore.ieee.org/document/9780970)
 
+15. Ali Bagheri, Saleh Taghvaeian, Dursun Delen,A text analytics model for agricultural knowledge discovery and sustainable food production: A case study from Oklahoma Panhandle, Decision Analytics Journal, Volume 9, 2023, 100350, ISSN 2772-6622,https://doi.org/10.1016/j.dajour.2023.100350. [[paper]](https://www.sciencedirect.com/science/article/pii/S277266222300190X)
+
+16. Neha Kaushik, Niladri Chatterjee, Automatic relationship extraction from agricultural text for ontology construction, Information Processing in Agriculture, Volume 5, Issue 1, 2018, Pages 60-73, ISSN 2214-3173, https://doi.org/10.1016/j.inpa.2017.11.003. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214317317300227)
+
+17. Biao Zhao, Weiqiang Jin, Javier Del Ser, Guang Yang, ChatAgri: Exploring potentials of ChatGPT on cross-linguistic agricultural text classification, Neurocomputing, Volume 557, 2023, 126708, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2023.126708. [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231223008317)
+
 
 
 ## agriculture-aware_knowledge_reasoning
@@ -168,6 +178,14 @@ Table of Contents
 
 
 12. 朱成毅, 杭波. **农业病虫害信息智能应答系统设计与实现**[J]. 智慧农业导刊, 2023. [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=751ee5e5-1bf2-4e6d-af9e-1f27db476ebb#)
+
+13. 杨硕，李书琴. 多模态知识图谱增强葡萄种植问答对的答案选择模型[J]. 农业工程学报，2023，39(14)：207-214. doi:  10.11975/j.issn.1002-6819.202304240 [[paper]](http://www.tcsae.org/cn/article/doi/10.11975/j.issn.1002-6819.202304240)
+
+14. 戈为溪, 周俊, 袁立存, 郑彭元. 基于知识图谱与案例推理的水稻精准施肥推荐模型[J]. 农业工程学报, 2023, 39(2): 126-133. DOI: 10.11975/j.issn.1002-6819.202211150 [[paper]](http://www.tcsae.org/cn/article/doi/10.11975/j.issn.1002-6819.202211150)
+
+15. 姜丽华，赵瑞雪，董春岩，等. 基于深度学习的水产病害可视化知识图谱构建与验证[J]. 农业工程学报，2023，39(15)：259-267. doi:  10.11975/j.issn.1002-6819.202304111 [[paper]](http://www.tcsae.org/cn/article/doi/10.11975/j.issn.1002-6819.202304111)
+
+16. Tek Raj Chhetri, Armin Hohenegger, Anna Fensel, Mariam Aramide Kasali, Asiru Afeez Adekunle, Towards improving prediction accuracy and user-level explainability using deep learning and knowledge graphs: A study on cassava disease, Expert Systems with Applications, Volume 233, 2023, 120955, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2023.120955. [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417423014574)
 
 
 
@@ -219,7 +237,9 @@ Table of Contents
 
 [[节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/u9RqpiBfuH97B9amFXjMpg) | [[功能上新|节能减排&低碳认证重要环节-产品碳足迹管理]](https://mp.weixin.qq.com/s/s4RLc2Sc5EbKJVMFWyVaSQ) 
 
-
+## ontology
+1. Enesi Femi Aminu, Ishaq Oyebisi Oyefolahan, Muhammad Bashir Abdullahi, Muhammadu Tajudeen Salaudeen,MaCOnto: A robust maize crop ontology based on soils, fertilizers and irrigation knowledge,Intelligent Systems with Applications,Volume 16,2022,200125,ISSN 2667-3053,https://doi.org/10.1016/j.iswa.2022.200125. [[Paper]]
+(https://www.sciencedirect.com/science/article/pii/S266730532200062X)
 
 
 
