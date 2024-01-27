@@ -76,6 +76,34 @@ Table of Contents
 ## dataset
 1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
 
+2. 中国农业科学院植物保护研究所.中国农业天敌昆虫数据库.国家科技基础条件平台-国家农业科学数据中心. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4121)
+
+3. 魏守辉. 中国主要农作物田天敌昆虫和捕食螨名录. 中国农业科学院植物保护研究所. CSTR:17058.11.A0004.20201216.16.ds.0093. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4456)
+
+4. https://github.com/shenjie-hyc/CropDiseaseNer?tab=readme-ov-file#cropdiseasener
+
+5. 国家农业科学数据中心黑龙江省分中心.《大豆科学》题录数据库.国家科技基础条件平台-国家农业科学数据中心. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4290)
+
+6. 国家农业科学数据中心黑龙江省分中心.《黑龙江农业科学》题录数据库.国家科技基础条件平台-国家农业科学数据中心. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4341)
+
+7. 金慧敏，赵华. 2022年采集整理农业科技论文文摘. 中国农业科学院农业信息研究所. CSTR:17058.11.A0007.20231114.01.ts.3753. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=291577)
+
+8. 范春林. 农药化学污染物分类数据库. 中国检验检疫科学研究院. CSTR:17058.11.E0001.20201216.10.ds.0005. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4368)
+
+9. 范春林. 农产品分类数据库. 中国检验检疫科学研究院. CSTR:17058.11.E0001.20201216.10.ds.0004. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4367)
+
+10. 中国农业科学院农产品加工研究所.农产品加工工艺和设备数据库.国家科技基础条件平台-国家农业科学数据中心. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=4123)
+
+11. 金慧敏，赵华. 2022年农业科技机构数据集. 中国农业科学院农业信息研究所. CSTR:17058.11.A0007.20231114.00.ds.3750. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=291574)
+
+12. 金慧敏，赵华. 2022年安徽省农业科技人才数据集. . CSTR:17058.11.A0007.20231114.01.ts.3752. [[Reference]](https://www.agridata.cn/data.html#/datadetail?id=291576)
+
+13. https://github.com/jd-coderepos/contributions-ner-agri
+
+
+
+
+
 
 
 ## carbon_emission_computation
